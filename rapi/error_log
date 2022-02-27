@@ -1,0 +1,1356 @@
+[24-Jul-2020 16:02:12 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[24-Jul-2020 16:18:45 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[24-Jul-2020 16:18:45 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[24-Jul-2020 16:18:51 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[24-Jul-2020 16:18:51 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[25-Jul-2020 14:54:17 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[25-Jul-2020 14:54:24 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[25-Jul-2020 14:54:24 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[25-Jul-2020 15:01:41 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[25-Jul-2020 15:01:41 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[31-Jul-2020 20:31:31 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[31-Jul-2020 20:31:36 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[31-Jul-2020 20:31:36 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[31-Jul-2020 20:46:12 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[31-Jul-2020 20:46:18 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[31-Jul-2020 20:46:18 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[01-Aug-2020 18:58:08 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[01-Aug-2020 18:58:12 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[01-Aug-2020 18:58:12 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[01-Aug-2020 19:24:34 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[01-Aug-2020 19:24:34 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[01-Aug-2020 21:06:46 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[01-Aug-2020 21:08:07 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[01-Aug-2020 21:08:11 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[01-Aug-2020 21:08:11 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[01-Aug-2020 21:31:03 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[01-Aug-2020 21:31:03 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[03-Aug-2020 09:08:15 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[03-Aug-2020 09:08:27 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[03-Aug-2020 09:08:27 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[03-Aug-2020 09:28:41 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[03-Aug-2020 09:28:41 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[03-Aug-2020 09:31:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:31:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:31:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:31:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:31:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:31:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:31:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:31:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:31:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:31:50 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:31:50 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:31:50 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:31:50 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:31:50 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:31:50 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:31:50 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:31:50 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:31:50 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:31:54 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:31:54 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:31:54 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:31:54 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:31:54 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:31:54 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:31:54 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:31:54 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:31:54 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:31:58 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:31:58 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:31:58 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:31:58 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:31:58 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:31:58 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:31:58 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:31:58 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:31:58 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:32:26 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:32:26 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:32:26 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:32:26 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:32:26 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:32:26 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:32:26 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:32:26 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:32:26 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:32:27 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:32:27 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:32:27 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:32:27 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:32:27 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:32:27 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:32:27 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:32:27 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:32:27 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:32:28 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:32:28 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:32:28 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:32:28 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:32:28 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:32:28 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:32:28 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:32:28 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Aug-2020 09:32:28 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[04-Aug-2020 11:49:17 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[04-Aug-2020 11:49:28 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[04-Aug-2020 11:49:28 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[04-Aug-2020 12:06:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[04-Aug-2020 12:06:50 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[04-Aug-2020 12:06:50 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[04-Aug-2020 12:12:14 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[04-Aug-2020 12:12:14 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[04-Aug-2020 12:12:14 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[04-Aug-2020 12:12:14 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[04-Aug-2020 12:12:14 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[04-Aug-2020 12:12:14 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[04-Aug-2020 12:12:14 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[04-Aug-2020 12:12:14 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[04-Aug-2020 12:12:14 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[04-Aug-2020 12:12:14 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[04-Aug-2020 12:12:20 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[04-Aug-2020 12:12:20 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[04-Aug-2020 12:12:20 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[04-Aug-2020 12:12:20 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[04-Aug-2020 12:12:20 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[04-Aug-2020 12:12:20 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[04-Aug-2020 12:12:20 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[04-Aug-2020 12:12:20 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[04-Aug-2020 12:12:20 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[04-Aug-2020 12:12:20 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[04-Aug-2020 12:12:30 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[04-Aug-2020 12:12:30 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[04-Aug-2020 12:12:30 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[04-Aug-2020 12:12:30 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[04-Aug-2020 12:12:30 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[04-Aug-2020 12:12:30 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[04-Aug-2020 12:12:30 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[04-Aug-2020 12:12:30 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[04-Aug-2020 12:12:30 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[04-Aug-2020 12:12:30 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[05-Aug-2020 14:16:03 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[05-Aug-2020 14:16:20 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[05-Aug-2020 14:16:20 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[05-Aug-2020 14:17:51 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[05-Aug-2020 14:17:51 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[06-Aug-2020 15:52:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[06-Aug-2020 15:52:29 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[06-Aug-2020 15:52:29 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[06-Aug-2020 17:50:44 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[06-Aug-2020 18:02:44 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[06-Aug-2020 18:02:44 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[07-Aug-2020 10:15:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[07-Aug-2020 10:15:05 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[07-Aug-2020 10:15:05 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[07-Aug-2020 10:36:31 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[07-Aug-2020 10:36:31 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[07-Aug-2020 10:39:45 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[07-Aug-2020 10:39:45 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[07-Aug-2020 10:39:45 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[07-Aug-2020 10:39:45 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[07-Aug-2020 10:39:45 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[07-Aug-2020 10:39:45 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[07-Aug-2020 10:39:45 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[07-Aug-2020 10:39:45 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[07-Aug-2020 10:39:45 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[07-Aug-2020 10:39:45 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[07-Aug-2020 10:39:45 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[07-Aug-2020 10:39:45 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[07-Aug-2020 10:39:45 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[07-Aug-2020 16:00:55 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[07-Aug-2020 16:02:06 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[07-Aug-2020 16:02:06 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[07-Aug-2020 16:15:32 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[07-Aug-2020 16:21:21 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[07-Aug-2020 16:21:21 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[07-Aug-2020 16:23:28 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[07-Aug-2020 16:23:28 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[07-Aug-2020 16:23:28 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[07-Aug-2020 16:23:28 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[07-Aug-2020 16:23:28 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[07-Aug-2020 16:23:28 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[07-Aug-2020 16:23:28 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[07-Aug-2020 16:23:28 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[07-Aug-2020 16:23:28 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[07-Aug-2020 16:23:28 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[07-Aug-2020 16:23:28 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[07-Aug-2020 16:23:28 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[07-Aug-2020 16:23:28 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[07-Aug-2020 16:23:28 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 12:57:37 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[11-Aug-2020 12:57:37 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 12:57:37 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 12:57:37 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 12:57:37 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 12:57:37 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 12:57:37 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 12:57:37 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 12:57:37 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 12:57:37 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 12:57:37 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 12:57:37 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 12:57:37 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 12:57:37 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 12:57:37 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 12:58:05 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 12:58:05 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 12:58:05 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 12:58:05 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 12:58:05 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 12:58:05 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 12:58:05 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 12:58:05 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 12:58:05 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 12:58:05 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 12:58:05 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 12:58:05 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 12:58:05 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 12:58:05 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 12:58:08 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[11-Aug-2020 12:58:16 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[11-Aug-2020 12:58:16 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[11-Aug-2020 14:05:40 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[11-Aug-2020 14:05:40 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[11-Aug-2020 14:12:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 14:12:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 14:12:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 14:12:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 14:12:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 14:12:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 14:12:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 14:12:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 14:12:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 14:12:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 14:12:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 14:12:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 14:12:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 14:12:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 14:12:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:21:39 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:21:39 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:21:39 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:21:39 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:21:39 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:21:39 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:21:39 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:21:39 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:21:39 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:21:39 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:21:39 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:21:39 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:21:39 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:21:39 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:21:39 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:21:41 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[11-Aug-2020 21:21:46 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:21:46 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:21:46 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:21:46 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:21:46 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:21:46 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:21:46 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:21:46 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:21:46 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:21:46 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:21:46 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:21:46 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:21:46 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:21:46 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:21:46 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:21:46 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[11-Aug-2020 21:21:50 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[11-Aug-2020 21:22:48 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[11-Aug-2020 21:22:48 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[11-Aug-2020 21:24:20 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[11-Aug-2020 21:24:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:24:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:24:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:24:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:24:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:24:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:24:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:24:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:24:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:24:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:24:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:24:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:24:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:24:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:24:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[11-Aug-2020 21:24:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[11-Aug-2020 23:00:25 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[11-Aug-2020 23:00:32 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[11-Aug-2020 23:00:32 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[12-Aug-2020 09:59:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[12-Aug-2020 10:00:58 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[12-Aug-2020 10:00:58 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[12-Aug-2020 11:23:49 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[12-Aug-2020 11:24:02 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[12-Aug-2020 11:24:02 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[14-Aug-2020 09:40:41 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[14-Aug-2020 09:40:44 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:44 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:44 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:44 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:44 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:44 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:44 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:44 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:44 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:44 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:44 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:44 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:44 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:44 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:44 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:44 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:44 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:51 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:51 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:51 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:51 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:51 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:51 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:51 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:51 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:51 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:51 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:51 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:51 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:51 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:51 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:51 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:51 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:51 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 09:40:59 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[14-Aug-2020 09:41:05 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[14-Aug-2020 09:41:05 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[14-Aug-2020 09:44:28 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[14-Aug-2020 09:44:39 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[14-Aug-2020 09:44:39 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[14-Aug-2020 10:31:30 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[14-Aug-2020 10:31:43 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[14-Aug-2020 10:31:43 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[14-Aug-2020 10:31:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[14-Aug-2020 10:32:06 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[14-Aug-2020 10:32:06 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[14-Aug-2020 10:56:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 10:56:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 10:56:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 10:56:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 10:56:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 10:56:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 10:56:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 10:56:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 10:56:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 10:56:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 10:56:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 10:56:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 10:56:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 10:56:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 10:56:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 10:56:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 10:56:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 10:56:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 10:56:41 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[14-Aug-2020 10:57:18 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[14-Aug-2020 10:57:18 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[14-Aug-2020 11:17:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[14-Aug-2020 11:17:28 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[14-Aug-2020 11:17:28 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[14-Aug-2020 17:02:05 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[14-Aug-2020 17:02:05 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[14-Aug-2020 17:02:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[14-Aug-2020 17:02:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[14-Aug-2020 17:02:08 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:02:08 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:02:08 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:02:08 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:02:08 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:02:08 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:02:08 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:02:08 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:02:08 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:02:08 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:02:08 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:02:08 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:02:08 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:02:08 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:02:08 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:02:08 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:02:08 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:02:08 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:02:08 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:02:12 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[14-Aug-2020 17:02:16 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[14-Aug-2020 17:02:16 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[14-Aug-2020 17:04:07 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[14-Aug-2020 17:04:07 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[14-Aug-2020 17:11:10 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[14-Aug-2020 17:11:10 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[14-Aug-2020 17:39:13 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:13 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:13 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:13 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:13 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:13 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:13 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:13 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:13 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:13 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:13 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:13 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:13 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:13 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:13 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:13 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:13 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:13 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:13 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:13 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:35 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:35 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:35 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:35 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:35 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:35 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:35 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:35 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:35 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:35 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:35 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:35 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:35 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:35 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:35 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:35 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:35 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:35 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:35 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 17:39:35 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:08:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[14-Aug-2020 19:09:04 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[14-Aug-2020 19:09:04 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[14-Aug-2020 19:15:12 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[14-Aug-2020 19:16:38 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:38 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:38 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:38 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:38 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:38 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:38 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:38 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:38 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:38 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:38 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:38 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:38 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:38 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:38 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:38 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:38 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:38 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:38 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:38 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:41 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:41 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:41 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:41 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:41 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:41 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:41 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:41 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:41 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:41 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:41 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:41 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:41 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:41 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:41 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:41 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:41 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:41 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:41 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:41 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 19:16:43 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[14-Aug-2020 19:45:40 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[14-Aug-2020 19:45:40 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[14-Aug-2020 20:27:46 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[14-Aug-2020 20:27:50 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[14-Aug-2020 20:27:50 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[14-Aug-2020 20:31:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[14-Aug-2020 21:01:13 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[14-Aug-2020 21:01:49 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[14-Aug-2020 21:01:49 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[14-Aug-2020 21:02:00 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 21:02:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 21:05:30 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 21:05:34 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 21:57:33 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 21:57:33 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 21:57:33 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 21:57:33 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 21:57:33 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 21:57:33 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 21:57:33 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 21:57:33 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 21:57:33 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 21:57:33 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 21:57:33 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 21:57:33 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 21:57:33 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 21:57:33 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 21:57:33 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 21:57:33 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 21:57:33 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 21:57:33 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 21:57:33 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 21:57:33 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[14-Aug-2020 21:57:33 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[15-Aug-2020 20:55:27 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[15-Aug-2020 20:56:45 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[15-Aug-2020 20:56:45 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[15-Aug-2020 20:56:58 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[15-Aug-2020 20:56:58 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[15-Aug-2020 20:59:14 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[15-Aug-2020 20:59:14 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[15-Aug-2020 20:59:35 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[15-Aug-2020 21:04:48 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[15-Aug-2020 21:08:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[15-Aug-2020 21:13:46 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[15-Aug-2020 21:14:17 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[15-Aug-2020 21:14:17 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[18-Aug-2020 17:15:30 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[18-Aug-2020 17:15:42 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[18-Aug-2020 17:15:42 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[18-Aug-2020 19:40:04 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[18-Aug-2020 19:40:15 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[18-Aug-2020 19:40:15 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[18-Aug-2020 19:40:24 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 19:40:24 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 19:40:24 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 19:40:24 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 19:40:24 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 19:40:24 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 19:40:24 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 19:40:24 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 19:40:24 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 19:40:24 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 19:40:24 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 19:40:24 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 19:40:24 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 19:40:24 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 19:40:24 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 19:40:24 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 19:40:24 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 19:40:24 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 19:40:24 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 19:40:24 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 19:40:24 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 19:40:24 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:53 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:53 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:53 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:53 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:53 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:53 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:53 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:53 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:53 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:53 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:53 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:53 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:53 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:53 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:53 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:53 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:53 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:53 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:53 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:53 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:53 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:53 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:43:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:12 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:12 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:12 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:12 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:12 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:12 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:12 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:12 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:12 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:12 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:12 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:12 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:12 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:12 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:12 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:12 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:12 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:12 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:12 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:12 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:12 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:12 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:34 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:34 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:34 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:34 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:34 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:34 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:34 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:34 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:34 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:34 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:34 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:34 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:34 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:34 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:34 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:34 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:34 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:34 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:34 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:34 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:34 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:34 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:58 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:58 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:58 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:58 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:58 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:58 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:58 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:58 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:58 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:58 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:58 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:58 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:58 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:58 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:58 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:58 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:58 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:58 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:58 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:58 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:58 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[18-Aug-2020 20:44:58 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[21-Aug-2020 14:46:30 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[21-Aug-2020 15:04:45 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[21-Aug-2020 15:04:55 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[21-Aug-2020 15:04:55 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[21-Aug-2020 15:08:21 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[21-Aug-2020 15:08:26 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[21-Aug-2020 15:08:26 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[21-Aug-2020 16:32:08 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[21-Aug-2020 16:37:40 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[21-Aug-2020 16:37:40 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[21-Aug-2020 17:04:38 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[21-Aug-2020 17:04:38 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[21-Aug-2020 19:40:09 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[21-Aug-2020 19:40:14 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[21-Aug-2020 19:40:14 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[21-Aug-2020 19:40:30 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[21-Aug-2020 19:40:30 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[21-Aug-2020 19:42:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[21-Aug-2020 19:42:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[21-Aug-2020 19:42:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[23-Aug-2020 10:36:46 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[23-Aug-2020 10:36:52 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[23-Aug-2020 10:36:52 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[23-Aug-2020 10:41:45 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[23-Aug-2020 10:58:36 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[23-Aug-2020 10:58:42 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[23-Aug-2020 10:58:42 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[23-Aug-2020 20:17:42 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[23-Aug-2020 20:17:50 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[23-Aug-2020 20:17:50 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[23-Aug-2020 20:18:45 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[23-Aug-2020 20:18:45 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[23-Aug-2020 20:19:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[23-Aug-2020 20:19:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[23-Aug-2020 20:19:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[23-Aug-2020 20:19:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[23-Aug-2020 20:19:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[23-Aug-2020 20:19:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[23-Aug-2020 20:19:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[23-Aug-2020 20:19:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[23-Aug-2020 20:19:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[23-Aug-2020 20:19:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[23-Aug-2020 20:19:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[23-Aug-2020 20:19:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[23-Aug-2020 20:19:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[23-Aug-2020 20:19:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[23-Aug-2020 20:19:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[23-Aug-2020 20:19:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[23-Aug-2020 20:19:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[23-Aug-2020 20:19:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[23-Aug-2020 20:19:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[23-Aug-2020 20:19:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[23-Aug-2020 20:19:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[23-Aug-2020 20:19:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[23-Aug-2020 20:19:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[23-Aug-2020 20:19:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[23-Aug-2020 20:19:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[23-Aug-2020 21:41:00 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[23-Aug-2020 21:41:05 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[23-Aug-2020 21:41:05 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[23-Aug-2020 22:04:09 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[23-Aug-2020 22:04:09 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[24-Aug-2020 20:21:23 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[24-Aug-2020 20:21:28 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[24-Aug-2020 20:21:28 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[24-Aug-2020 20:21:36 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[24-Aug-2020 20:21:36 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[24-Aug-2020 22:47:50 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[24-Aug-2020 22:49:34 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[24-Aug-2020 22:49:34 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[24-Aug-2020 22:53:37 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[24-Aug-2020 23:20:07 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[24-Aug-2020 23:20:07 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[25-Aug-2020 15:44:14 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[25-Aug-2020 15:44:30 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[25-Aug-2020 15:44:30 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[25-Aug-2020 16:30:41 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[25-Aug-2020 17:24:54 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[25-Aug-2020 17:24:54 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[26-Aug-2020 12:26:58 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[26-Aug-2020 12:27:03 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[26-Aug-2020 12:27:03 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[26-Aug-2020 12:45:38 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[26-Aug-2020 12:45:38 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[28-Aug-2020 10:58:45 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[28-Aug-2020 10:58:52 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[28-Aug-2020 10:58:52 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[28-Aug-2020 11:41:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[28-Aug-2020 11:41:25 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[28-Aug-2020 11:41:25 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[29-Aug-2020 13:11:12 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[29-Aug-2020 13:11:43 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[29-Aug-2020 13:11:43 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[29-Aug-2020 14:25:34 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[29-Aug-2020 14:25:50 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[29-Aug-2020 14:25:50 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[29-Aug-2020 19:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[29-Aug-2020 19:44:28 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[29-Aug-2020 19:44:28 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[29-Aug-2020 20:18:22 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[29-Aug-2020 20:18:22 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[30-Aug-2020 15:46:25 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[30-Aug-2020 15:46:33 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[30-Aug-2020 15:46:33 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[30-Aug-2020 15:56:15 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[30-Aug-2020 17:09:45 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[30-Aug-2020 17:10:21 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[30-Aug-2020 17:10:21 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[30-Aug-2020 17:10:28 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[30-Aug-2020 17:10:28 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[30-Aug-2020 17:10:28 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[30-Aug-2020 17:10:28 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[30-Aug-2020 17:10:28 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[31-Aug-2020 16:38:23 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[31-Aug-2020 16:51:27 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[31-Aug-2020 16:51:27 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[31-Aug-2020 16:51:39 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[31-Aug-2020 16:51:39 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[31-Aug-2020 17:21:24 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[31-Aug-2020 17:21:25 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[31-Aug-2020 17:21:25 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[31-Aug-2020 17:21:25 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[31-Aug-2020 17:21:25 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[31-Aug-2020 17:21:25 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 10:41:39 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 10:41:39 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 10:41:39 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 10:41:39 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 10:41:39 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 10:41:39 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:06 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 12:24:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Sep-2020 20:01:43 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[01-Sep-2020 20:01:47 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[01-Sep-2020 20:01:47 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[01-Sep-2020 20:03:22 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[01-Sep-2020 20:03:22 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[01-Sep-2020 20:03:49 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[01-Sep-2020 20:03:49 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[01-Sep-2020 20:17:40 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[01-Sep-2020 20:17:40 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[01-Sep-2020 20:17:42 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[01-Sep-2020 20:17:57 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[01-Sep-2020 20:17:57 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[02-Sep-2020 14:08:32 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[02-Sep-2020 14:08:39 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[02-Sep-2020 14:08:39 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[02-Sep-2020 14:10:24 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[02-Sep-2020 14:10:24 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[02-Sep-2020 21:12:24 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[02-Sep-2020 21:12:29 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[02-Sep-2020 21:12:29 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[02-Sep-2020 22:35:43 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[02-Sep-2020 22:36:12 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[02-Sep-2020 22:36:12 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[03-Sep-2020 10:22:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[03-Sep-2020 10:23:35 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[03-Sep-2020 10:23:37 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[03-Sep-2020 10:23:37 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[03-Sep-2020 10:27:51 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[03-Sep-2020 10:28:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Sep-2020 10:28:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Sep-2020 10:28:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Sep-2020 10:28:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Sep-2020 10:28:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Sep-2020 10:28:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Sep-2020 10:28:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Sep-2020 10:28:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Sep-2020 10:28:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[03-Sep-2020 10:28:20 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[03-Sep-2020 10:32:18 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[03-Sep-2020 10:55:23 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[03-Sep-2020 10:55:23 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[03-Sep-2020 13:57:44 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[03-Sep-2020 13:57:54 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[03-Sep-2020 13:57:54 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[03-Sep-2020 14:12:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[03-Sep-2020 14:12:30 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[03-Sep-2020 14:12:30 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[06-Sep-2020 09:37:12 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[06-Sep-2020 09:37:24 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[06-Sep-2020 09:37:24 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[06-Sep-2020 11:17:41 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[06-Sep-2020 11:18:01 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[06-Sep-2020 11:18:01 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[06-Sep-2020 12:17:23 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[06-Sep-2020 12:17:29 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[06-Sep-2020 12:17:29 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[06-Sep-2020 12:40:03 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[06-Sep-2020 12:40:10 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[06-Sep-2020 12:40:10 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[06-Sep-2020 20:42:43 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[06-Sep-2020 20:43:02 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[06-Sep-2020 20:43:02 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[06-Sep-2020 22:05:55 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[06-Sep-2020 22:06:03 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[06-Sep-2020 22:06:03 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[08-Sep-2020 11:53:59 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[08-Sep-2020 11:54:07 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[08-Sep-2020 11:54:07 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[08-Sep-2020 12:07:23 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[08-Sep-2020 12:07:34 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[08-Sep-2020 12:07:34 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[11-Sep-2020 15:38:13 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[11-Sep-2020 15:38:19 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[11-Sep-2020 15:38:19 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[11-Sep-2020 16:50:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[11-Sep-2020 18:35:39 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[11-Sep-2020 18:36:05 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[11-Sep-2020 18:36:05 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[12-Sep-2020 19:45:32 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[12-Sep-2020 19:45:47 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[12-Sep-2020 19:45:47 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[12-Sep-2020 19:45:57 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[12-Sep-2020 19:45:57 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[13-Sep-2020 17:56:49 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[13-Sep-2020 17:57:04 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[13-Sep-2020 17:57:04 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[13-Sep-2020 18:14:33 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[13-Sep-2020 18:14:40 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[13-Sep-2020 18:14:40 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[15-Sep-2020 12:30:35 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[15-Sep-2020 12:30:59 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[15-Sep-2020 12:30:59 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[15-Sep-2020 12:34:40 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[15-Sep-2020 12:34:40 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[15-Sep-2020 12:34:43 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[15-Sep-2020 12:34:43 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[15-Sep-2020 12:34:45 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[15-Sep-2020 12:34:45 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[15-Sep-2020 12:35:00 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[15-Sep-2020 12:35:00 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[18-Sep-2020 10:03:48 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[18-Sep-2020 10:07:21 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[18-Sep-2020 10:07:21 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[18-Sep-2020 10:37:29 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[18-Sep-2020 10:37:29 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[18-Sep-2020 15:31:44 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[18-Sep-2020 15:31:51 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[18-Sep-2020 15:31:51 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[18-Sep-2020 15:37:13 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[18-Sep-2020 15:37:13 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[20-Sep-2020 13:18:40 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[20-Sep-2020 13:18:48 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[20-Sep-2020 13:18:48 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[20-Sep-2020 13:35:58 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[20-Sep-2020 13:41:32 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[20-Sep-2020 13:41:32 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[20-Sep-2020 17:48:29 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[20-Sep-2020 17:48:34 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[20-Sep-2020 17:48:34 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[20-Sep-2020 19:22:47 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[20-Sep-2020 19:22:47 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[21-Sep-2020 15:38:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[21-Sep-2020 15:38:57 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[21-Sep-2020 15:38:57 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[21-Sep-2020 16:01:55 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[21-Sep-2020 16:01:55 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[22-Sep-2020 15:20:45 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[22-Sep-2020 15:20:49 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[22-Sep-2020 15:20:49 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[22-Sep-2020 15:46:00 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[22-Sep-2020 15:46:06 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[22-Sep-2020 15:46:06 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[22-Sep-2020 21:20:43 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[22-Sep-2020 21:20:48 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[22-Sep-2020 21:20:48 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[22-Sep-2020 21:20:56 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[22-Sep-2020 21:20:56 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[22-Sep-2020 21:21:01 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[23-Sep-2020 11:59:32 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[23-Sep-2020 12:01:18 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[23-Sep-2020 12:01:18 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[23-Sep-2020 12:07:45 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[23-Sep-2020 12:07:45 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[23-Sep-2020 12:15:57 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[23-Sep-2020 12:16:01 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[23-Sep-2020 12:16:01 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[23-Sep-2020 12:20:27 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[23-Sep-2020 12:20:27 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[23-Sep-2020 12:20:32 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[23-Sep-2020 12:20:32 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[25-Sep-2020 21:36:47 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[25-Sep-2020 21:36:51 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[25-Sep-2020 21:36:51 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[25-Sep-2020 21:41:58 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[25-Sep-2020 21:42:05 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[25-Sep-2020 21:42:05 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[26-Sep-2020 08:31:56 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[26-Sep-2020 08:32:03 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[26-Sep-2020 08:32:03 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[26-Sep-2020 08:36:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[26-Sep-2020 09:13:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[26-Sep-2020 09:13:25 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[26-Sep-2020 09:13:25 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[27-Sep-2020 13:12:58 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[27-Sep-2020 13:13:08 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[27-Sep-2020 13:13:08 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[27-Sep-2020 13:44:22 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[27-Sep-2020 13:44:22 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[29-Sep-2020 15:06:32 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[29-Sep-2020 15:06:36 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[29-Sep-2020 15:06:36 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[29-Sep-2020 15:06:40 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[29-Sep-2020 15:06:40 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[29-Sep-2020 21:00:28 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[29-Sep-2020 21:00:33 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[29-Sep-2020 21:00:33 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[29-Sep-2020 22:00:53 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[29-Sep-2020 22:00:53 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[30-Sep-2020 20:51:09 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[30-Sep-2020 20:51:09 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[01-Oct-2020 13:26:55 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[01-Oct-2020 13:27:00 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[01-Oct-2020 13:27:00 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[01-Oct-2020 13:30:52 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[01-Oct-2020 13:30:52 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[02-Oct-2020 12:17:48 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[02-Oct-2020 12:17:56 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[02-Oct-2020 12:17:56 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[02-Oct-2020 12:49:15 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[02-Oct-2020 12:49:22 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[02-Oct-2020 12:49:22 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[02-Oct-2020 16:01:18 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[02-Oct-2020 16:01:30 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[02-Oct-2020 16:01:30 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[02-Oct-2020 16:29:17 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[02-Oct-2020 16:29:17 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[02-Oct-2020 20:35:38 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[02-Oct-2020 20:35:45 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[02-Oct-2020 20:35:45 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[02-Oct-2020 21:03:23 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[02-Oct-2020 21:40:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[02-Oct-2020 21:40:24 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[02-Oct-2020 21:40:24 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[04-Oct-2020 17:37:12 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[04-Oct-2020 17:37:20 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[04-Oct-2020 17:37:20 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[04-Oct-2020 17:37:48 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[04-Oct-2020 17:37:48 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[04-Oct-2020 22:36:47 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[04-Oct-2020 22:36:51 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[04-Oct-2020 22:36:51 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[04-Oct-2020 22:46:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[04-Oct-2020 22:48:45 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[04-Oct-2020 22:48:45 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[06-Oct-2020 11:19:59 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[06-Oct-2020 11:20:14 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[06-Oct-2020 11:20:14 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[06-Oct-2020 11:26:09 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[06-Oct-2020 11:35:35 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[06-Oct-2020 11:35:35 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:43:52 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:02 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[06-Oct-2020 11:44:16 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/complete.php on line 54
+[09-Oct-2020 21:43:12 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[09-Oct-2020 21:43:23 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[09-Oct-2020 21:43:23 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[09-Oct-2020 21:55:50 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[09-Oct-2020 21:55:50 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[11-Oct-2020 10:21:10 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[11-Oct-2020 10:57:26 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[11-Oct-2020 10:57:32 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[11-Oct-2020 10:57:32 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[11-Oct-2020 11:05:40 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[11-Oct-2020 11:05:40 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[11-Oct-2020 11:38:54 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[11-Oct-2020 11:38:54 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[11-Oct-2020 11:39:00 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[11-Oct-2020 11:39:00 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[11-Oct-2020 17:37:19 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[11-Oct-2020 17:38:23 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[11-Oct-2020 17:38:23 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[11-Oct-2020 18:56:02 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[11-Oct-2020 18:56:02 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[13-Oct-2020 10:55:46 Asia/Dhaka] PHP Notice:  Undefined variable: p_method in /home/bizx24/public_html/ibitan.com/rapi/olist.php on line 53
+[13-Oct-2020 10:55:56 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[13-Oct-2020 10:55:56 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
+[13-Oct-2020 12:00:19 Asia/Dhaka] PHP Notice:  Constant ONE_KEY already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 4
+[13-Oct-2020 12:00:19 Asia/Dhaka] PHP Notice:  Constant ONE_HASH already defined in /home/bizx24/public_html/ibitan.com/rapi/ostatus.php on line 5
