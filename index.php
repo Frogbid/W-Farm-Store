@@ -44,11 +44,6 @@
 		<section id="content">
 			<div class="content-wrap">
 				<div class="container clearfix">
-					<!-- Popular Categories Area Start ============================================= -->
-					<?php
-					require_once('includes/popularCatagories.php');
-					?>
-					<!-- Popular Categories Area End ============================================= -->
 
 					<div class="clear"></div>
 

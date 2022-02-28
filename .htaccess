@@ -1,6 +1,4 @@
-ErrorDocument 404 /shuvo/404.php
-
-RewriteEngine on  
+RewriteEngine on
   
 RewriteRule ^Signup  registration.php [NC,L]
 RewriteRule ^Login  login.php [NC,L]

@@ -15,7 +15,7 @@
                <div class="product-image">
                   <a href="Product?id=<?php echo $row["id"]; ?>&cid=<?php echo $row["cid"]; ?>"><img src="<?php echo $row['pimg']; ?>" alt="Seeds" style="width:200px;height:200px;"></a>
                   <a href="Product?id=<?php echo $row["id"]; ?>&cid=<?php echo $row["cid"]; ?>"><img src="<?php echo $row['pimg']; ?>" alt="Seeds" style="width:200px;height:200px;"></a>
-                  <div class="sale-flash" style="background-color: #28a745;color:#28a745;">
+                  <div class="sale-flash" style="background-color: #28a745;color:#000000;">
                   <?php
                   if ($row['discount'] > 0) {
                   ?>

@@ -153,7 +153,7 @@
                                     <b><?php echo number_format($finaltotalprice, 2) ?>&nbsp;BDT/=</b>
                                  </td>
                                  <td>
-                                    <a href="Checkout" id="chkout" class="btn btn-info btn-sm <?= ($finaltotalprice >= 100) ? "" : "disabled"; ?>"><i class="fa fa-credit-card"></i> Checkout <i class="fa fa-credit-card"></i></a>
+                                    <a href="Checkout" id="chkout" class="btn btn-info btn-sm <?= ($finaltotalprice > 100) ? "" : "disabled"; ?>"><i class="fa fa-credit-card"></i> Checkout <i class="fa fa-credit-card"></i></a>
                                  </td>
                               </tr>
                            </tbody>
