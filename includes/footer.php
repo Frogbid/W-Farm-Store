@@ -14,11 +14,11 @@
                   <h4 class="ls0 mb-3 nott">Features</h4>
 
                   <ul class="list-unstyled iconlist ml-0">
-                     <li><a>Help Center</a></li>
+                     <li><a href="mailTo:farmstore@gmail.com"> Help Center </a></li>
                      <li><a>Paid with Moblie</a></li>
                      <li><a>Status</a></li>
                      <li><a>Changelog</a></li>
-                     <li><a>Contact Support</a></li>
+                     <li><a href="ContactUs">Contact Support</a></li>
                   </ul>
 
                </div>
@@ -35,7 +35,7 @@
                      if (mysqli_num_rows($data) > 0) {
                         while ($row = mysqli_fetch_assoc($data)) {
                      ?>
-                           <li><a><?php echo $row['catname']; ?></a></li>
+                           <li><a href="Catagory?id=<?php echo $row["id"]; ?>"><?php echo $row['catname']; ?></a></li>
                      <?php
                         }
                      }
@@ -51,12 +51,12 @@
 
                   <ul class="list-unstyled iconlist ml-0">
                      <?php
-                     $query = "SELECT * FROM subcategory ORDER BY rand() LIMIT 5";
+                     $query = "SELECT id as sid,name,cat_id as cid FROM subcategory ORDER BY rand() LIMIT 5";
                      $data = mysqli_query($con, $query);
                      if (mysqli_num_rows($data) > 0) {
                         while ($row = mysqli_fetch_assoc($data)) {
                      ?>
-                           <li><a><?php echo $row['name']; ?></a></li>
+                           <li><a href="SubCatagory?sid=<?php echo $row["sid"]; ?>&cid=<?php echo $row["cid"]; ?>"><?php echo $row['name']; ?></a></li>
                      <?php
                         }
                      }
@@ -72,12 +72,12 @@
 
                   <ul class="list-unstyled iconlist ml-0">
                      <?php
-                     $query = "SELECT * FROM product ORDER BY rand() LIMIT 5";
+                     $query = "SELECT * FROM product WHERE popular='1' ORDER BY rand() LIMIT 5";
                      $data = mysqli_query($con, $query);
                      if (mysqli_num_rows($data) > 0) {
                         while ($row = mysqli_fetch_assoc($data)) {
                      ?>
-                           <li><a><?php echo $row['pname']; ?></a></li>
+                           <li><a href="Product?id=<?php echo $row["id"]; ?>"><?php echo $row['pname']; ?></a></li>
                      <?php
                         }
                      }

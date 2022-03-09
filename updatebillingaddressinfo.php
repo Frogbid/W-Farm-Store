@@ -10,6 +10,7 @@
    $result =  mysqli_query($con, $sql);
    $row = mysqli_fetch_array($result);
    if (isset($_POST['billingaddressInfoUpdate'])) {
+
       $hno = $_POST["hno"];
 
       $society = $_POST["society"];
@@ -114,18 +115,8 @@
 
                      <div class="form-group">
                         <label class="font-weight-bold">Change area*</label>
-                        <select class="form-control" name="area" required>
-                           <option value="<?php echo $rows['area']; ?>"><?php echo $rows['area']; ?></option>
-                           <?php
-                           $area = "SELECT * FROM area_db";
-                           $resultarea = mysqli_query($con, $area);
-                           while ($rowss = mysqli_fetch_array($resultarea)) {
-                           ?>
-                              <option value="<?php echo $rowss['name']; ?>"><?php echo $rowss['name']; ?></option>
-                           <?php
-                           }
-                           ?>
-                        </select>
+                         <input type="text" name="area" class="form-control form-control-round" value="<?php echo $rows['area'] ?>" autocomplete="off" required>
+
                      </div>
                   </div>
                   <button type="submit" name="billingaddressInfoUpdate" id="submit" class="btn btn-warning">Save changes</button>

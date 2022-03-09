@@ -9,8 +9,8 @@
                   <!-- Logo
 					============================================= -->
                   <div id="logo">
-                        <a href="Homepage" class="standard-logo">Farm Store</a>
-                        <a href="Homepage" class="retina-logo">Farm Store</a>
+                        <a href="Homepage" class="standard-logo"><img src="subcategory/farm_logo.jpg"></a>
+                        <a href="Homepage" class="retina-logo"><img src="subcategory/farm_logo.jpg"></a>
                   </div><!-- #logo end -->
 
                   <!-- Primary Navigation
@@ -132,9 +132,13 @@
                               $total = mysqli_num_rows($data);
                               ?>
 
+
                               <div id="top-cart">
                                     <a href="Cart"><i class="icon-line-bag"></i><span class="text-white" id="cart-item"><?php echo $total; ?></span></a>
                               </div>
+                            <div id="top-cart">
+                                <a href="ContactUs"><i class="icon-life-ring"></i></a>
+                            </div>
                         <?php
                         }
                         ?>

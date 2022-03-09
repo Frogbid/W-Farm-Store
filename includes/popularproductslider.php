@@ -48,7 +48,7 @@
                <div class="product-desc">
                   <div class="product-title mb-1">
                      <h3>
-                        <center><a href="Product?id=<?php echo $row["id"]; ?>"><?php echo $row['pname']; ?></a></center>
+                        <center><a href="Product?id=<?php echo $row["id"]; ?>&cid=<?php echo $row["cid"]; ?>"><?php echo $row['pname']; ?></a></center>
                      </h3>
                      <a href="Product?id=<?php echo $row["id"]; ?>&cid=<?php echo $row["cid"]; ?>" class="btn btn-block text-dark mt-1" style="background-color: #28a745;"><b><i class="icon-shopping-cart"></i>&nbsp;Add to cart&nbsp;<i class="icon-shopping-cart"></i></b></a>
                   </div>

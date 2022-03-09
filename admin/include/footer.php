@@ -12,12 +12,12 @@
                         </strong>
                     </p>
                     <p>
-                        © 2020 ECommerce. All rights reserved.
+                        © 2022 Farm Store. All rights reserved.
                     </p>
                 </div>
                 <div class="col-md-4">
                     <div class="air__footer__logo">
-                        <div class="air__footer__logo__name"> ECommerce</div>
+                        <div class="air__footer__logo__name"> Farm Store</div>
                         <div class="air__footer__logo__descr"> &nbsp;&nbsp;Admin Dashboard</div>
                     </div>
                 </div>

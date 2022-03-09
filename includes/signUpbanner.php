@@ -17,9 +17,15 @@
                            <li><i class="icon-circle-blank text-black-50"></i> Cash on Delivery Accepted
                            </li>
                         </ul>
+                         <?php
+                         if (!isset($_SESSION['id'])) {
+                         ?>
                         <a href="Signup" class="button button-rounded ls0 t600 ml-0 mb-2 nott px-4 text-dark" style="background-color: #2bff01;">Sign
                            Up</a><br>
                         <small class="font-italic text-black-50">Don't worry, it's totally free.</small>
+                             <?php
+                         }
+                         ?>
                      </div>
                   </div>
                </div>

@@ -9,7 +9,7 @@ include('config/dbconfig.php');
 <title>Farm Store</title>
 
 <!-- Favicon -->
-<link rel="shortcut icon" href="">
+<link rel="shortcut icon" href="subcategory/farm_logo.jpg">
 
 
 <link href="http://fonts.googleapis.com/css?family=Lato:300,400,400i,700%7CMontserrat:300,400,500,600,700%7CMerriweather:300,400,300i,400i" rel="stylesheet" type="text/css" />

@@ -146,6 +146,12 @@ if (!empty($_SESSION['username'])) {
                         <?php
                     }
                     ?>
+                    <li class=" air__menuLeft__item">
+                        <a href="contact.php" class="air__menuLeft__link">
+                            <i class="fa fa-child"></i>
+                            <span>Customer Contact Info</span>
+                        </a>
+                    </li>
                 </ul>
             </div>
         </div>

@@ -88,8 +88,15 @@
                         <h2 style="text-align:center">Welcome&nbsp;<?php echo $row['name']; ?></h2>
                         <div class="card">
                            <div class="card-body">
-                              <img src="images/commonuser.png" alt="No image available" style="width:100%">
+                              <img src="subcategory/avatar.png" alt="No image available" style="height: 50%; width: 50%">
                               <h1><?php echo $row['name']; ?></h1>
+                               <?php
+                               if ($row['status'] == 0) {
+                                   ?>
+                                   <span class="badge badge-pill badge-primary">Premium Member</span>
+                                   <?php
+                               }
+                               ?>
                               <p class="title"><?php echo $row['email']; ?></p>
                               <p class="title"><?php echo $row['ccode']; ?>&nbsp;<?php echo $row['mobile']; ?></p>
                            </div>

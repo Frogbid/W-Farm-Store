@@ -99,14 +99,12 @@ if (isset($_POST['login'])) {
                   Login
                </span>
                <div class="wrap-input100 rs1">
-                  <input class="input100" type="email" name="email" required data-parsley-type="email" data-parsley-trigger="keyup">
-                  <span class="label-input100">E-Mail</span>
+                  <input class="input100" type="email" placeholder="Email" name="email" required data-parsley-type="email" data-parsley-trigger="keyup">
                </div>
 
 
                <div class="wrap-input100 rs2">
-                  <input class="input100" type="password" name="password" required>
-                  <span class="label-input100">Password</span>
+                  <input class="input100" type="password" placeholder="Password" name="password" required>
                </div>
 
                <div class="container-login100-form-btn">
