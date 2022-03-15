@@ -6,7 +6,7 @@ if (!isset($_SESSION['username'])) {
 mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
 try {
   //Username, Password and Database
-  $con = new mysqli("localhost", "root", "", "ecommerce");
+  $con = new mysqli("localhost", "root", "", "farm_store");
   $con->set_charset("utf8mb4");
 } catch (Exception $e) {
   error_log($e->getMessage());
