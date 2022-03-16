@@ -67,26 +67,33 @@
                     if (isset($_POST['up_cat'])) {
                         $cname = mysqli_real_escape_string($con, $_POST['Category_Name']);
 
+                        $result = $con->query("select * from category where catname='$cname';");
 
-                        if (!empty($_FILES["Category_Image"]["name"])) {
+                        if ($result->num_rows == 0) {
+                            if (!empty($_FILES["Category_Image"]["name"])) {
 
 
-                            $fileName = $_FILES['Category_Image']['tmp_name'];
-                            $sourceProperties = getimagesize($fileName);
-                            $resizeFileName = time();
-                            $uploadPath = "cat/";
-                            $fileExt = pathinfo($_FILES['Category_Image']['name'], PATHINFO_EXTENSION);
+                                $fileName = $_FILES['Category_Image']['tmp_name'];
+                                $sourceProperties = getimagesize($fileName);
+                                $resizeFileName = time();
+                                $uploadPath = "cat/";
+                                $fileExt = pathinfo($_FILES['Category_Image']['name'], PATHINFO_EXTENSION);
 
-                            $url = $uploadPath . "thump_" . $resizeFileName . "." . $fileExt;
-                            if (move_uploaded_file($fileName, '../' . $url)) {
-                                $con->query("update category set catname='" . $cname . "',catimg='" . $url . "' where id=" . $_GET['edit'] . "");
+                                $url = $uploadPath . "thump_" . $resizeFileName . "." . $fileExt;
+                                if (move_uploaded_file($fileName, '../' . $url)) {
+                                    $con->query("update category set catname='" . $cname . "',catimg='" . $url . "' where id=" . $_GET['edit'] . "");
+                                }
+                            } else {
+                                $con->query("update category set catname='" . $cname . "' where id=" . $_GET['edit'] . "");
                             }
+                            echo '<script type="text/javascript">';
+                            echo "setTimeout(function () { swal({title: 'Catagory Edit', text: 'Catagory Edited Successfully', type: 'success', confirmButtonClass: 'btn-success', confirmButtonText: 'OK', },function() {window.location = 'category.php';});";
+                            echo '}, 1000);</script>';
                         } else {
-                            $con->query("update category set catname='" . $cname . "' where id=" . $_GET['edit'] . "");
+                            echo '<script type="text/javascript">';
+                            echo "setTimeout(function () { swal({title: 'Catagory Edit', text: 'Duplicate Category', type: 'error', confirmButtonClass: 'btn-danger', confirmButtonText: 'OK', });";
+                            echo '}, 1000);</script>';
                         }
-                        echo '<script type="text/javascript">';
-                        echo "setTimeout(function () { swal({title: 'Catagory Edit', text: 'Catagory Edited Successfully', type: 'success', confirmButtonClass: 'btn-success', confirmButtonText: 'OK', },function() {window.location = 'category.php';});";
-                        echo '}, 1000);</script>';
                     }
                     ?>
 
@@ -100,7 +107,7 @@
 
                                         <div class="col-lg-12 mb-5">
                                             <h4 class="mb-4">
-                                                <strong>Add Catagory</strong>
+                                                <strong>Add Category</strong>
                                             </h4>
                                             <form id="form-validation-simple" name="form-validation-simple"
                                                   method="POST" enctype="multipart/form-data">
@@ -139,16 +146,26 @@
                     $fileExt = pathinfo($_FILES['Category_Image']['name'], PATHINFO_EXTENSION);
 
                     $url = $uploadPath . "thump_" . $resizeFileName . "." . $fileExt;
-                    if (move_uploaded_file($fileName, '../' . $url)) {
-                        $con->query("insert into category(`catname`,`catimg`)values('" . $cname . "','" . $url . "')");
-                        echo '<script type="text/javascript">';
-                        echo "setTimeout(function () { swal({title: 'Catagory Add', text: 'Catagory Added Successfully', type: 'success', confirmButtonClass: 'btn-success', confirmButtonText: 'OK', });";
-                        echo '}, 1000);</script>';
+
+                    $result = $con->query("select * from category where catname='$cname';");
+
+                    if ($result->num_rows == 0) {
+                        if (move_uploaded_file($fileName, '../' . $url)) {
+                            $con->query("insert into category(`catname`,`catimg`)values('" . $cname . "','" . $url . "')");
+                            echo '<script type="text/javascript">';
+                            echo "setTimeout(function () { swal({title: 'Catagory Add', text: 'Catagory Added Successfully', type: 'success', confirmButtonClass: 'btn-success', confirmButtonText: 'OK', });";
+                            echo '}, 1000);</script>';
+                        } else {
+                            echo '<script type="text/javascript">';
+                            echo "setTimeout(function () { swal({title: 'Catagory Add', text: 'Something went wrong', type: 'error', confirmButtonClass: 'btn-danger', confirmButtonText: 'OK', });";
+                            echo '}, 1000);</script>';
+                        }
                     } else {
                         echo '<script type="text/javascript">';
-                        echo "setTimeout(function () { swal({title: 'Catagory Add', text: 'Something went wrong', type: 'error', confirmButtonClass: 'btn-danger', confirmButtonText: 'OK', });";
+                        echo "setTimeout(function () { swal({title: 'Catagory Add', text: 'Duplicate Category', type: 'error', confirmButtonClass: 'btn-danger', confirmButtonText: 'OK', });";
                         echo '}, 1000);</script>';
                     }
+
                 }
 
                 ?>
