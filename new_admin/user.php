@@ -38,7 +38,7 @@
                                         <th>Country Code</th>
                                         <th>Mobile</th>
                                         <th>password</th>
-                                        <th>Current_Status</th>
+                                        <th>Total Sell Amount</th>
                                         <th>Status</th>
                                         <th class="text-center">Action</th>
                                     </tr>
@@ -52,17 +52,18 @@
                                         ?>
                                         <tr>
 
-                                            <td><?php echo $i; ?></td>
+                                            <td><?php echo $i;
+                                                $id = $row['id'];
+                                                ?></td>
                                             <td><?php echo $row['name']; ?></td>
                                             <td><?php echo $row['email']; ?></td>
                                             <td><?php echo $row['ccode']; ?></td>
                                             <td><?php echo $row['mobile']; ?></td>
                                             <td><?php echo $row['password']; ?></td>
-                                            <td><?php if ($row['status'] == 1) {
-                                                    echo 'Active';
-                                                } else {
-                                                    echo 'Deactive';
-                                                } ?></td>
+                                            <td><?php
+                                                $result = $con->query("SELECT SUM(total) as total FROM `orders` where uid = '$id'")->fetch_assoc();
+                                                echo $result['total'];
+                                                ?> BDT</td
                                             <td><?php if ($row['status'] == 1) { ?>
                                                     <a href="?status=0&sid=<?php echo $row['id']; ?>"><button class="btn btn-primary"> Make Premium</button></a>
                                                 <?php } else { ?>
