@@ -151,21 +151,29 @@
                         $cname = mysqli_real_escape_string($con, $_POST['cname']);
                         $cid = $_POST['scat'];
 
-                        $fileName = $_FILES['f_up']['tmp_name'];
-                        $sourceProperties = getimagesize($fileName);
-                        $resizeFileName = time();
-                        $uploadPath = "subcategory/";
-                        $fileExt = pathinfo($_FILES['f_up']['name'], PATHINFO_EXTENSION);
+                        $result = $con->query("select * from subcategory where name='$cname';");
 
-                        $url = '../'.$uploadPath . "thump_" . $resizeFileName . "." . $fileExt;
-                        move_uploaded_file($fileName,  $url);
+                        if ($result->num_rows == 0) {
+                            $fileName = $_FILES['f_up']['tmp_name'];
+                            $sourceProperties = getimagesize($fileName);
+                            $resizeFileName = time();
+                            $uploadPath = "subcategory/";
+                            $fileExt = pathinfo($_FILES['f_up']['name'], PATHINFO_EXTENSION);
 
-                        $url = $uploadPath . "thump_" . $resizeFileName . "." . $fileExt;
-                        $con->query("insert into subcategory(`cat_id`,`name`,`img`)values(" . $cid . ",'" . $cname . "','" . $url . "')");
-                        echo '<script type="text/javascript">';
-                        echo
-                        "setTimeout(function () { swal({title: 'Subcategory Add', text: 'Subcategory Added Successfully', type: 'success', confirmButtonClass: 'btn-success', confirmButtonText: 'OK', },function() {window.location = 'subcategory.php';});";
-                        echo '}, 1000);</script>';
+                            $url = '../' . $uploadPath . "thump_" . $resizeFileName . "." . $fileExt;
+                            move_uploaded_file($fileName, $url);
+
+                            $url = $uploadPath . "thump_" . $resizeFileName . "." . $fileExt;
+                            $con->query("insert into subcategory(`cat_id`,`name`,`img`)values(" . $cid . ",'" . $cname . "','" . $url . "')");
+                            echo '<script type="text/javascript">';
+                            echo
+                            "setTimeout(function () { swal({title: 'Subcategory Add', text: 'Subcategory Added Successfully', type: 'success', confirmButtonClass: 'btn-success', confirmButtonText: 'OK', },function() {window.location = 'subcategory.php';});";
+                            echo '}, 1000);</script>';
+                        }else{
+                            echo '<script type="text/javascript">';
+                            echo "setTimeout(function () { swal({title: 'Sub-Catagory Add', text: 'Duplicate Sub-Catagory', type: 'error', confirmButtonClass: 'btn-danger', confirmButtonText: 'OK', });";
+                            echo '}, 1000);</script>';
+                        }
                     }
                     ?>
 

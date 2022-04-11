@@ -6956,8 +6956,8 @@ p.wp-caption-text {
 .product-image .slide a,
 .product-image img {
 	display: block;
-	width: 100%;
-	height: 100%;
+	width: 50%;
+	height: 50%;
 }
 
 body:not(.device-touch):not(.device-sm):not(.device-xs) .product-image>a {

@@ -126,11 +126,28 @@
                                           </div>
                                        </td>
                                        <td>
-                                          <center><input type="number" disabled class="form-control" value="<?= $row['discount'] ?>" style="width:75px;"></center>
+                                           <?php
+                                           $premium = $con->query("select `status` from `user` where id=$id")->fetch_assoc();
+                                           if($premium['status'] == 0){
+                                           ?>
+                                          <center><input type="number" disabled class="form-control" value="10" style="width:75px;"></center>
+                                               <?php
+                                           } else{
+                                           ?>
+                                           <center><input type="number" disabled class="form-control" value="<?= $row['discount'] ?>" style="width:75px;"></center>
+                                               <?php
+                                           }
+                                           ?>
                                        </td>
                                        <td>
-                                          <?php $totalprice = ($price * ($row['qty'])); ?>
-                                          <?php echo $discountprice = ($totalprice - (($totalprice * ($row['discount'])) / 100))  ?>
+                                          <?php
+                                          $totalprice = ($price * ($row['qty']));
+                                          if($premium['status'] == 0){
+                                              echo $discountprice = ($totalprice - (($totalprice * 10) / 100));
+                                          }else{
+                                              echo $discountprice = ($totalprice - (($totalprice * ($row['discount'])) / 100));
+                                          }
+                                           ?>
                                        </td>
                                        <td>
                                           <a href="action.php?remove=<?= $row['pid'] ?>" class="text-danger lead
