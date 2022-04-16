@@ -72,12 +72,12 @@
 
                   <ul class="list-unstyled iconlist ml-0">
                      <?php
-                     $query = "SELECT * FROM product WHERE popular='1' ORDER BY rand() LIMIT 5";
+                     $query = "SELECT * FROM product WHERE popular='1' and status = '1' ORDER BY rand() LIMIT 5";
                      $data = mysqli_query($con, $query);
                      if (mysqli_num_rows($data) > 0) {
                         while ($row = mysqli_fetch_assoc($data)) {
                      ?>
-                           <li><a href="Product?id=<?php echo $row["id"]; ?>"><?php echo $row['pname']; ?></a></li>
+                           <li><a href="Product?id=<?php echo $row["id"]; ?>&cid=<?php echo $row["cid"]; ?>"><?php echo $row['pname']; ?></a></li>
                      <?php
                         }
                      }

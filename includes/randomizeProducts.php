@@ -4,7 +4,7 @@
 
 <div class="row grid-6">
    <?php
-   $sql = "SELECT * FROM product ORDER BY RAND() LIMIT 24";
+   $sql = "SELECT * FROM product where status = '1' ORDER BY RAND() LIMIT 24";
    $result = mysqli_query($con, $sql);
    $video_id = '';
    while ($row = mysqli_fetch_array($result)) {

@@ -179,7 +179,7 @@
                                             <input type="hidden" class="pimg" value="<?php echo $row['pimg']; ?>">
                                             <input type="hidden" class="discount"
                                                    value="<?php echo $row['discount']; ?>">
-                                            <button class="btn btn-block text-dark mt-1 addItemBtn"
+                                            <button class="btn text-dark mt-1 addItemBtn" <?php if($row['stock'] == '0'){ ?> disabled <?php } ?>
                                                     style="background-color: #28a745;"><b><i
                                                             class="icon-shopping-cart"></i>&nbsp;Add to cart&nbsp;<i
                                                             class="icon-shopping-cart"></i></b></button>
@@ -206,7 +206,7 @@
                  data-items-sm="2" data-items-md="3" data-items-lg="4" data-items-xl="5">
                 <?php
                 $cid = $_GET['cid'];
-                $query = "SELECT * FROM product WHERE cid = '$cid'";
+                $query = "SELECT * FROM product WHERE cid = '$cid' and status = '1'";
                 $data = mysqli_query($con, $query);
                 if (mysqli_num_rows($data) > 0) {
                     while ($row = mysqli_fetch_assoc($data)) {

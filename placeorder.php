@@ -39,7 +39,26 @@ if (!isset($_SESSION['id'])) {
       $dt = new DateTime('now', new DateTimezone('Asia/Dhaka'));
       $current_date = $dt->format('Y-m-d');
 
-      $query = "INSERT INTO `orders` (`oid`, `uid`, `pname`, `pid`, `ptype`, `pprice`, `ddate`,`timesloat`,`order_date`,`status`,`qty`,`total`,`p_method`,`tax`,`address_id`) VALUES ('$orderrandomno', '$uid ', '$allproductname', '$productsid', '$allproducytype', '$allproductprice', '$current_date','$timeslot', '$current_date', 'pending', '$allproductqntty','$finalTotal','$p_method','$tax','$adress_id')";
+
+       $query = "SELECT status FROM user WHERE id = '$uid'";
+       $data = mysqli_query($con, $query);
+       $total = mysqli_num_rows($data);
+       if ($total != 0) {
+           while ($result = mysqli_fetch_assoc($data)) {
+               $user_status = $result['status'];
+           }
+       } else {
+           "No Records Found!!!";
+       }
+
+       if($user_status == '0'){
+           $delivery_date = date('Y-m-d', strtotime($current_date. ' + 3 days'));
+       }else{
+           $delivery_date = date('Y-m-d', strtotime($current_date. ' + 5 days'));
+       }
+
+      $query = "INSERT INTO `orders` (`oid`, `uid`, `pname`, `pid`, `ptype`, `pprice`, `ddate`,`timesloat`,`order_date`,`status`,`qty`,`total`,`p_method`,`tax`,`address_id`) 
+VALUES ('$orderrandomno', '$uid ', '$allproductname', '$productsid', '$allproducytype', '$allproductprice', '$delivery_date','$timeslot', '$current_date', 'pending', '$allproductqntty','$finalTotal','$p_method','$tax','$adress_id')";
       $result = mysqli_query($con, $query);
       if ($result == TRUE) {
          $delete_from_cart = "DELETE FROM cart_table WHERE uid = '$uid'";

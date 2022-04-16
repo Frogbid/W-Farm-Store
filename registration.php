@@ -29,7 +29,7 @@ include('config/dbconfig.php');
 
    <!-- Main CSS-->
    <link href="signpFiles/css/main.css" rel="stylesheet" media="all">
-   <style>
+       <style>
       .box {
          width: 100%;
          max-width: 600px;
@@ -163,7 +163,6 @@ include('config/dbconfig.php');
    <!-- Main JS-->
    <script src="signpFiles/js/global.js"></script>
    <script src="http://parsleyjs.org/dist/parsley.js"></script>
-   <script src="assets/js/sweetalert2.all.min.js"></script>
    <script src="datatable.js"></script>
    <script>
       $(document).ready(function() {
@@ -175,7 +174,8 @@ include('config/dbconfig.php');
          $(".js-example-basic-single").select2();
       });
    </script>
-   <?php require_once('sweetalert.php') ?>
-</body>
+   <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+   <?php require_once('sweetalert.php'); ?>
+   </body>
 
 </html>

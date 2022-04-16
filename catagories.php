@@ -79,7 +79,7 @@
                         } else {
                            $page1 = ($page * 12) - 12;
                         }
-                        $sql = "SELECT * FROM category,product WHERE category.id= product.cid AND category.id = '$id' LIMIT $page1,12";
+                        $sql = "SELECT * FROM category,product WHERE category.id= product.cid AND category.id = '$id' and product.status = '1' LIMIT $page1,12";
                         $result = mysqli_query($con, $sql);
                         $video_id = '';
                         while ($row = mysqli_fetch_array($result)) {
@@ -135,7 +135,7 @@
                      <?php
                      //this is for counting number of page
                      $id = $_GET['id'];
-                     $query1 = "SELECT * FROM category,product WHERE category.id= product.cid AND category.id = '$id'";
+                     $query1 = "SELECT * FROM category,product WHERE category.id= product.cid AND category.id = '$id' and product.status = '1'";
                      $result1 = mysqli_query($con, $query1);
                      $count = mysqli_num_rows($result1);
                      $row = mysqli_fetch_array($result1);

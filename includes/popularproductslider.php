@@ -7,7 +7,7 @@
     <!-- Shop Item 1 ============================================= -->
 
     <?php
-    $query = "SELECT * FROM product WHERE popular='1' ORDER BY RAND() LIMIT 10 ";
+    $query = "SELECT * FROM product WHERE popular='1' and status = '1' ORDER BY RAND() LIMIT 10 ";
     $data = mysqli_query($con, $query);
     if (mysqli_num_rows($data) > 0) {
         while ($row = mysqli_fetch_assoc($data)) {

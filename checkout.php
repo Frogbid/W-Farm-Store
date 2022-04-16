@@ -176,9 +176,13 @@
                                         <tr>
                                             <?php
                                             $aftertax = 0;
+                                            $query = "SELECT tax FROM setting";
+                                            $data = mysqli_query($con, $query);
+                                            $row = mysqli_fetch_assoc($data);
+                                            $tax = $row['tax'];
                                             ?>
-                                            <td colspan="3">Tax(0%)</td>
-                                            <?php $aftertax = ($product_price_total) * (0/100); ?>
+                                            <td colspan="3">Tax(<?php echo $tax;?>%)</td>
+                                            <?php $aftertax = ($product_price_total) * ($tax/100); ?>
                                             <td><?php echo $aftertax; ?></td>
                                             <?php
                                             ?>
