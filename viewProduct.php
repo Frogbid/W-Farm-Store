@@ -178,7 +178,14 @@
                                             <input type="hidden" class="pname" value="<?php echo $row['pname']; ?>">
                                             <input type="hidden" class="pimg" value="<?php echo $row['pimg']; ?>">
                                             <input type="hidden" class="discount"
-                                                   value="<?php echo $row['discount']; ?>">
+                                                   value="<?php
+                                                       $premium = $con->query("select `status` from `user` where id=$id")->fetch_assoc();
+                                                       if($premium['status'] == 0){
+                                                           echo $row['discount']+10;
+                                                        } else{
+                                                           echo $row['discount'];
+                                                        }
+                                                   ?>">
                                             <button class="btn text-dark mt-1 addItemBtn" <?php if($row['stock'] == '0'){ ?> disabled <?php } ?>
                                                     style="background-color: #28a745;"><b><i
                                                             class="icon-shopping-cart"></i>&nbsp;Add to cart&nbsp;<i

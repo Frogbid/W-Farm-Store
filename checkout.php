@@ -143,12 +143,13 @@
                                             <th>Serial No.</th>
                                             <th>Product</th>
                                             <th>Quantity</th>
+                                            <th>Discount</th>
                                             <th>Price</th>
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <?php
-                                        $query = "SELECT qty AS ItemQuantity, qty, pname, total as totalprice, id FROM cart_table WHERE uid='$id'";
+                                        $query = "SELECT qty AS ItemQuantity, qty, pname, total as totalprice, id, discount FROM cart_table WHERE uid='$id'";
                                         $data = mysqli_query($con, $query);
                                         $serial_no = 1;
                                         $product_price_total = 0;
@@ -159,18 +160,19 @@
                                                 <td><?php echo $serial_no; ?></td>
                                                 <td><?php echo $row["pname"]; ?></td>
                                                 <td><?php echo $row["ItemQuantity"]; ?></td>
-                                                <td><?php echo $row["totalprice"]; ?></td>
+                                                <td><?php echo $row["discount"].'%'; ?></td>
+                                                <td><?php echo $row["totalprice"]-$row["totalprice"]*($row["discount"]/100); ?></td>
                                             </tr>
                                         <?php
                                             $serial_no++;
-                                            $product_price_total += $row['totalprice'];
+                                            $product_price_total += $row['totalprice']-$row["totalprice"]*($row["discount"]/100);
                                             }
                                         }
                                         ?>
                                     </tbody>
                                     <tfoot>
                                         <tr>
-                                            <td colspan="3">Total</td>
+                                            <td colspan="4">Total</td>
                                             <td><?php echo $product_price_total; ?></td>
                                         </tr>
                                         <tr>
@@ -181,18 +183,18 @@
                                             $row = mysqli_fetch_assoc($data);
                                             $tax = $row['tax'];
                                             ?>
-                                            <td colspan="3">Tax(<?php echo $tax;?>%)</td>
+                                            <td colspan="4">Tax(<?php echo $tax;?>%)</td>
                                             <?php $aftertax = ($product_price_total) * ($tax/100); ?>
                                             <td><?php echo $aftertax; ?></td>
                                             <?php
                                             ?>
                                         </tr>
                                         <tr>
-                                            <td colspan="3">Delivery Charge</td>
+                                            <td colspan="4">Delivery Charge</td>
                                             <td><?php echo $d_charge; ?></td>
                                         </tr>
                                         <tr>
-                                            <td colspan="3">Grand Total</td>
+                                            <td colspan="4">Grand Total</td>
                                             <td><?php echo $final_total = ($d_charge + $product_price_total + $aftertax); ?></td>
                                         </tr>
                                     </tfoot>

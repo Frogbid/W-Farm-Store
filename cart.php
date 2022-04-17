@@ -130,11 +130,11 @@
                                            $premium = $con->query("select `status` from `user` where id=$id")->fetch_assoc();
                                            if($premium['status'] == 0){
                                            ?>
-                                          <center><input type="number" disabled class="form-control" value="10" style="width:75px;"></center>
+                                          <center><input type="number" readonly class="form-control" value="10" style="width:75px;"></center>
                                                <?php
                                            } else{
                                            ?>
-                                           <center><input type="number" disabled class="form-control" value="<?= $row['discount'] ?>" style="width:75px;"></center>
+                                           <center><input type="number" readonly class="form-control" value="<?= $row['discount'] ?>" style="width:75px;"></center>
                                                <?php
                                            }
                                            ?>
