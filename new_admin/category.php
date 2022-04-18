@@ -203,17 +203,26 @@
                                                                          src="../<?php echo $row['catimg']; ?>"
                                                                          alt="Generic placeholder image"
                                                                          style="height: 75px;"></td>
-                                            <td><?php echo $con->query("select * from subcategory where cat_id=" . $row['id'] . "")->num_rows; ?></td>
+                                            <td>
+                                                <?php
+                                                $num_of_subcategory = $con->query("select * from subcategory where cat_id=" . $row['id'] . "")->num_rows;
+                                                echo $num_of_subcategory;
+                                                ?>
+                                            </td>
                                             <td class="text-center">
                                                 <a class="primary"
                                                    href="category.php?edit=<?php echo $row['id']; ?>"
                                                    data-original-title="" title="">
                                                     <i class="fas fa-edit text-info"></i>
                                                 </a>
-                                                <a class="danger" href="?dele=<?php echo $row['id']; ?>"
-                                                   data-original-title="" title="">
-                                                    <i class="far fa-trash-alt text-danger"></i>
-                                                </a>
+                                                <?php
+                                                if ($num_of_subcategory == 0) {
+                                                    ?>
+                                                    <a class="danger" href="?dele=<?php echo $row['id']; ?>"
+                                                       data-original-title="" title="">
+                                                        <i class="far fa-trash-alt text-danger"></i>
+                                                    </a>
+                                                <?php } ?>
                                             </td>
 
                                         </tr>
@@ -242,16 +251,29 @@
                                         },
                                         function (isConfirm) {
                                             if (isConfirm) {
-                                                <?php $con->query("delete from category where id=" . $_GET['dele'] . ""); ?>
-                                                swal({
-                                                    title: 'Category Delete',
-                                                    text: 'Category Deleted Successfully',
-                                                    type: 'error',
-                                                    confirmButtonClass: 'btn-danger',
-                                                    confirmButtonText: 'OK',
-                                                }, function () {
-                                                    window.location = 'category.php';
+
+                                                let currentUrl = window.location.href;
+                                                let params = (new URL(currentUrl)).searchParams;
+                                                let category_id=params.get('dele');
+                                                $.ajax({
+                                                    type: 'get',
+                                                    url: 'delete_data.php',
+                                                    data: {
+                                                        category_id: category_id
+                                                    },
+                                                    success: function(data) {
+                                                        swal({
+                                                            title: 'Category Delete',
+                                                            text: 'Category Deleted Successfully',
+                                                            type: 'error',
+                                                            confirmButtonClass: 'btn-danger',
+                                                            confirmButtonText: 'OK',
+                                                        }, function () {
+                                                            window.location = 'category.php';
+                                                        });
+                                                    }
                                                 });
+
                                             } else {
                                                 swal({
                                                     title: 'Cancelled',

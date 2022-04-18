@@ -563,16 +563,29 @@
                                         },
                                         function(isConfirm) {
                                             if (isConfirm) {
-                                                <?php $con->query("delete from product  where id=" . $_GET['dele'] . ""); ?>
-                                                swal({
-                                                    title: 'Product Delete',
-                                                    text: 'Product Deleted Successfully',
-                                                    type: 'error',
-                                                    confirmButtonClass: 'btn-danger',
-                                                    confirmButtonText: 'OK',
-                                                }, function() {
-                                                    window.location = 'product.php';
+
+                                                let currentUrl = window.location.href;
+                                                let params = (new URL(currentUrl)).searchParams;
+                                                let product_id=params.get('dele');
+                                                $.ajax({
+                                                    type: 'get',
+                                                    url: 'delete_data.php',
+                                                    data: {
+                                                        product_id: product_id
+                                                    },
+                                                    success: function(data) {
+                                                        swal({
+                                                            title: 'Product Delete',
+                                                            text: 'Product Deleted Successfully',
+                                                            type: 'error',
+                                                            confirmButtonClass: 'btn-danger',
+                                                            confirmButtonText: 'OK',
+                                                        }, function() {
+                                                            window.location = 'product.php';
+                                                        });
+                                                    }
                                                 });
+
                                             } else {
                                                 swal({
                                                     title: 'Cancelled',

@@ -35,10 +35,12 @@
                                             <h4 class="mb-4">
                                                 <strong>Edit Subcategory</strong>
                                             </h4>
-                                            <form id="form-validation-simple" name="form-validation-simple" method="POST" enctype="multipart/form-data">
+                                            <form id="form-validation-simple" name="form-validation-simple"
+                                                  method="POST" enctype="multipart/form-data">
                                                 <div class="form-group">
                                                     <label class="form-label">Select A Category</label>
-                                                    <select name="scat" class="form-control select2" data-validation="[NOTEMPTY]" required>
+                                                    <select name="scat" class="form-control select2"
+                                                            data-validation="[NOTEMPTY]" required>
                                                         <option value="0">Select A Category</option>
                                                         <?php
                                                         $sel = $con->query("select * from category");
@@ -55,17 +57,22 @@
 
                                                 <div class="form-group">
                                                     <label class="form-label">Subcategory Name</label>
-                                                    <input name="cname" value="<?php echo $sels['name']; ?>" type="text" class="form-control" data-validation="[NOTEMPTY]" required />
+                                                    <input name="cname" value="<?php echo $sels['name']; ?>" type="text"
+                                                           class="form-control" data-validation="[NOTEMPTY]" required/>
                                                 </div>
 
                                                 <div class="form-group">
                                                     <label class="form-label">Subcategory Image</label>
                                                     <div class="mb-5">
-                                                        <input type="file" name="f_up" class="dropify" data-height="300" data-validation="[NOTEMPTY]" data-default-file="../<?php echo $sels['img']; ?>" />
+                                                        <input type="file" name="f_up" class="dropify" data-height="300"
+                                                               data-validation="[NOTEMPTY]"
+                                                               data-default-file="../<?php echo $sels['img']; ?>"/>
                                                     </div>
                                                 </div>
                                                 <div class="form-actions">
-                                                    <button type="submit" class="btn btn-success mr-2 px-5" name="up_cat">Update Subcategory</button>
+                                                    <button type="submit" class="btn btn-success mr-2 px-5"
+                                                            name="up_cat">Update Subcategory
+                                                    </button>
                                                 </div>
                                             </form>
                                         </div>
@@ -87,8 +94,8 @@
                             $uploadPath = "subcategory/";
                             $fileExt = pathinfo($_FILES['f_up']['name'], PATHINFO_EXTENSION);
 
-                            $url = '../'.$uploadPath . "thump_" . $resizeFileName . "." . $fileExt;
-                            move_uploaded_file($fileName,  $url);
+                            $url = '../' . $uploadPath . "thump_" . $resizeFileName . "." . $fileExt;
+                            move_uploaded_file($fileName, $url);
 
                             $url = $uploadPath . "thump_" . $resizeFileName . "." . $fileExt;
                             $con->query("update subcategory set name='" . $cname . "',img='" . $url . "',cat_id=" . $cid . " where id=" . $_GET['edit'] . "");
@@ -113,10 +120,12 @@
                                             <h4 class="mb-4">
                                                 <strong>Add Subcatagory</strong>
                                             </h4>
-                                            <form id="form-validation-simple" name="form-validation-simple" method="POST" enctype="multipart/form-data">
+                                            <form id="form-validation-simple" name="form-validation-simple"
+                                                  method="POST" enctype="multipart/form-data">
                                                 <div class="form-group">
                                                     <label class="form-label">Select A Category</label>
-                                                    <select name="scat" class="form-control select2" data-validation="[NOTEMPTY]" required>
+                                                    <select name="scat" class="form-control select2"
+                                                            data-validation="[NOTEMPTY]" required>
                                                         <option value="0">Select A Category</option>
                                                         <?php
                                                         $sp = $con->query("select * from category");
@@ -128,16 +137,20 @@
                                                 </div>
                                                 <div class="form-group">
                                                     <label class="form-label">Subcategory Name</label>
-                                                    <input name="cname" type="text" class="form-control" data-validation="[NOTEMPTY]" required />
+                                                    <input name="cname" type="text" class="form-control"
+                                                           data-validation="[NOTEMPTY]" required/>
                                                 </div>
                                                 <div class="form-group">
                                                     <label class="form-label">Subcategory Image</label>
                                                     <div class="mb-5">
-                                                        <input type="file" name="f_up" class="dropify" data-height="300" data-validation="[NOTEMPTY]" required />
+                                                        <input type="file" name="f_up" class="dropify" data-height="300"
+                                                               data-validation="[NOTEMPTY]" required/>
                                                     </div>
                                                 </div>
                                                 <div class="form-actions">
-                                                    <button type="submit" class="btn btn-success mr-2 px-5" name="sub_cat">Save Subcategory</button>
+                                                    <button type="submit" class="btn btn-success mr-2 px-5"
+                                                            name="sub_cat">Save Subcategory
+                                                    </button>
                                                 </div>
                                             </form>
                                         </div>
@@ -169,7 +182,7 @@
                             echo
                             "setTimeout(function () { swal({title: 'Subcategory Add', text: 'Subcategory Added Successfully', type: 'success', confirmButtonClass: 'btn-success', confirmButtonText: 'OK', },function() {window.location = 'subcategory.php';});";
                             echo '}, 1000);</script>';
-                        }else{
+                        } else {
                             echo '<script type="text/javascript">';
                             echo "setTimeout(function () { swal({title: 'Sub-Catagory Add', text: 'Duplicate Sub-Catagory', type: 'error', confirmButtonClass: 'btn-danger', confirmButtonText: 'OK', });";
                             echo '}, 1000);</script>';
@@ -211,17 +224,26 @@
                                             <td><?php $cname = $con->query("select * from category where id=" . $row['cat_id'] . "")->fetch_assoc();
                                                 echo $cname['catname']; ?>
                                             <td><?php echo $row['name']; ?></td>
-                                            <td class="text-center"><img class="media-object round-media" src="../<?php echo $row['img']; ?>" alt="Generic placeholder image" style="height: 75px;"></td>
-                                            <td><?php echo $con->query("select * from product where sid=" . $row['id'] . "")->num_rows; ?></td>
+                                            <td class="text-center"><img class="media-object round-media"
+                                                                         src="../<?php echo $row['img']; ?>"
+                                                                         alt="Generic placeholder image"
+                                                                         style="height: 75px;"></td>
+                                            <td><?php
+                                                $total_product = $con->query("select * from product where sid=" . $row['id'] . "")->num_rows;
+                                                echo $total_product;
+                                                ?>
+                                            </td>
                                             <td class="text-center">
-                                                <a class="primary" href="subcategory.php?edit=<?php echo $row['id']; ?>" data-original-title="" title="">
+                                                <a class="primary" href="subcategory.php?edit=<?php echo $row['id']; ?>"
+                                                   data-original-title="" title="">
                                                     <i class="fas fa-edit text-info"></i>
                                                 </a>
-
-                                                <a class="danger" href="?dele=<?php echo $row['id']; ?>" data-original-title="" title="">
-                                                    <i class="far fa-trash-alt text-danger"></i>
-                                                </a>
-
+                                                <?php if ($total_product == 0) { ?>
+                                                    <a class="danger" href="?dele=<?php echo $row['id']; ?>"
+                                                       data-original-title="" title="">
+                                                        <i class="far fa-trash-alt text-danger"></i>
+                                                    </a>
+                                                <?php } ?>
                                             </td>
 
                                         </tr>
@@ -236,7 +258,7 @@
                         if (isset($_GET['dele'])) {
                             ?>
                             <script type="text/javascript">
-                                setTimeout(function() {
+                                setTimeout(function () {
                                     swal({
                                             title: "Are you sure?",
                                             text: "You will not be able to recover this subcategory!",
@@ -248,17 +270,28 @@
                                             closeOnConfirm: false,
                                             closeOnCancel: false
                                         },
-                                        function(isConfirm) {
+                                        function (isConfirm) {
                                             if (isConfirm) {
-                                                <?php $con->query("delete from subcategory where id=" . $_GET['dele'] . ""); ?>
-                                                swal({
-                                                    title: 'Subcategory Delete',
-                                                    text: 'Subcategory Deleted Successfully',
-                                                    type: 'error',
-                                                    confirmButtonClass: 'btn-danger',
-                                                    confirmButtonText: 'OK',
-                                                }, function() {
-                                                    window.location = 'subcategory.php';
+                                                let currentUrl = window.location.href;
+                                                let params = (new URL(currentUrl)).searchParams;
+                                                let subcategory_id=params.get('dele');
+                                                $.ajax({
+                                                    type: 'get',
+                                                    url: 'delete_data.php',
+                                                    data: {
+                                                        subcategory_id: subcategory_id
+                                                    },
+                                                    success: function(data) {
+                                                        swal({
+                                                            title: 'Subcategory Delete',
+                                                            text: 'Subcategory Deleted Successfully',
+                                                            type: 'error',
+                                                            confirmButtonClass: 'btn-danger',
+                                                            confirmButtonText: 'OK',
+                                                        }, function () {
+                                                            window.location = 'subcategory.php';
+                                                        });
+                                                    }
                                                 });
                                             } else {
                                                 swal({
@@ -267,7 +300,7 @@
                                                     type: 'error',
                                                     confirmButtonClass: 'btn-success',
                                                     confirmButtonText: 'OK',
-                                                }, function() {
+                                                }, function () {
                                                     window.location = 'subcategory.php';
                                                 });
                                             }
