@@ -175,27 +175,27 @@
                                             <td colspan="4">Total</td>
                                             <td><?php echo $product_price_total; ?></td>
                                         </tr>
-                                        <tr>
+<!--                                        <tr>
                                             <?php
-                                            $aftertax = 0;
+/*                                            $aftertax = 0;
                                             $query = "SELECT tax FROM setting";
                                             $data = mysqli_query($con, $query);
                                             $row = mysqli_fetch_assoc($data);
                                             $tax = $row['tax'];
-                                            ?>
-                                            <td colspan="4">Tax(<?php echo $tax;?>%)</td>
-                                            <?php $aftertax = ($product_price_total) * ($tax/100); ?>
-                                            <td><?php echo $aftertax; ?></td>
+                                            */?>
+                                            <td colspan="4">Tax(<?php /*echo $tax;*/?>%)</td>
+                                            <?php /*$aftertax = ($product_price_total) * ($tax/100); */?>
+                                            <td><?php /*echo $aftertax; */?></td>
                                             <?php
-                                            ?>
-                                        </tr>
+/*                                            */?>
+                                        </tr>-->
                                         <tr>
                                             <td colspan="4">Delivery Charge</td>
                                             <td><?php echo $d_charge; ?></td>
                                         </tr>
                                         <tr>
                                             <td colspan="4">Grand Total</td>
-                                            <td><?php echo $final_total = ($d_charge + $product_price_total + $aftertax); ?></td>
+                                            <td><?php echo $final_total = ($d_charge + $product_price_total); ?></td>
                                         </tr>
                                     </tfoot>
                                 </table>

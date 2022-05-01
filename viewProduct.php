@@ -66,7 +66,7 @@
                                             if ($bb == '') {
                                             } else {
                                                 ?>
-                                                <img src="<?php echo $bb; ?>" />
+                                                <img src="<?php echo $bb; ?>" style="width:200px;height:200px;" class="mt-3"/>
                                                 <?php
                                             }
                                         }
