@@ -106,7 +106,7 @@
                   ?>
                      <?php
                      $id = $_SESSION['id'];
-                     $query = "SELECT * FROM address WHERE uid = '$id'";
+                     $query = "SELECT * FROM address,setting WHERE uid = '$id'";
                      $data = mysqli_query($con, $query);
                      $total = mysqli_num_rows($data);
                      $adress_id = "";
@@ -121,7 +121,7 @@
                      if ($total != 0) {
                         while ($result = mysqli_fetch_assoc($data)) {
                            $adress_id = $result['id'];
-                           $d_charge = 0;
+                           $d_charge = $result['delivery_charge'];
                            $hno = $result['hno'];
                            $society = $result['society'];
                            $area = $result['area'];

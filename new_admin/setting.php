@@ -31,7 +31,7 @@
                                         <h4 class="mb-4">
                                             <strong>Edit Setting</strong>
                                         </h4>
-                                        <form id="form-validation-simple" name="form-validation-simple" method="POST" enctype="multipart/form-data">
+                                        <form id="form-validation-simple" name="form-validation-simple" action="" method="POST" enctype="multipart/form-data">
 
                                             <?php
                                             $getkey = $con->query("select * from setting")->fetch_assoc();
@@ -76,8 +76,8 @@
 
                                                 <div class="col-md-3 col-lg-3 col-xs-12 col-sm-12">
                                                     <div class="form-group">
-                                                        <label for="cname">TAX %</label>
-                                                        <input type="text" id="cname" class="form-control" name="tax" value="<?php echo $getkey['tax']; ?>" required>
+                                                        <label for="cname">Delivery Charge</label>
+                                                        <input type="text" id="cname" class="form-control" name="delivery_charge" value="<?php echo $getkey['delivery_charge']; ?>" required>
                                                     </div>
                                                 </div>
                                             </div>
@@ -142,7 +142,7 @@
                                             </div>-->
 
                                             <div class="form-actions">
-                                                <button type="submit" class="btn btn-success mr-2 px-5" name="sub_cat">Update Setting</button>
+                                                <button type="submit" class="btn btn-success mr-2 px-5" name="submit">Update Setting</button>
                                             </div>
                                         </form>
                                     </div>
@@ -152,14 +152,14 @@
                     </div>
                 </div>
                 <?php
-                if (isset($_POST['sub_cat'])) {
+                if (isset($_POST['submit'])) {
                     $omin = $_POST['omin'];
                     $timezone = $_POST['stime'];
                     $currency = mysqli_real_escape_string($con, $_POST['currency']);
-                    $tax = $_POST['tax'];
+                    $delivery_charge = $_POST['delivery_charge'];
 
 
-                    $con->query("update setting set tax=" . $tax . ",currency='" . $currency . "',o_min=" . $omin . ",`timezone`='" . $timezone . "' where id=1");
+                    $con->query("update setting set delivery_charge=" . $delivery_charge . ",currency='" . $currency . "',o_min=" . $omin . ",`timezone`='" . $timezone . "' where id=1");
 
                     echo '<script type="text/javascript">';
                     echo "setTimeout(function () { swal({title: 'Update Setting', text: 'Update Setting Successfully', type: 'success', confirmButtonClass: 'btn-success', confirmButtonText: 'OK', },function() {window.location = 'setting.php';});";
