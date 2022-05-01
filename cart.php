@@ -2,6 +2,8 @@
 <html dir="ltr" lang="en-US">
 
 <head>
+   <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+
    <!-- Stylesheets/CDN Area Start ============================================= -->
    <?php
    $page = 'index';
@@ -126,32 +128,32 @@
                                           </div>
                                        </td>
                                        <td>
-                                           <?php
-                                           $premium = $con->query("select `status` from `user` where id=$id")->fetch_assoc();
-                                           if($premium['status'] == 0){
-                                           ?>
-                                          <center><input type="number" readonly class="form-control" value="10" style="width:75px;"></center>
-                                               <?php
-                                           } else{
-                                           ?>
-                                           <center><input type="number" readonly class="form-control" value="<?= $row['discount'] ?>" style="width:75px;"></center>
-                                               <?php
-                                           }
-                                           ?>
+                                          <?php
+                                          $premium = $con->query("select `status` from `user` where id=$id")->fetch_assoc();
+                                          if ($premium['status'] == 0) {
+                                          ?>
+                                             <center><input type="number" readonly class="form-control" value="10" style="width:75px;"></center>
+                                          <?php
+                                          } else {
+                                          ?>
+                                             <center><input type="number" readonly class="form-control" value="<?= $row['discount'] ?>" style="width:75px;"></center>
+                                          <?php
+                                          }
+                                          ?>
                                        </td>
                                        <td>
                                           <?php
                                           $totalprice = ($price * ($row['qty']));
-                                          if($premium['status'] == 0){
-                                              echo $discountprice = ($totalprice - (($totalprice * 10) / 100));
-                                          }else{
-                                              echo $discountprice = ($totalprice - (($totalprice * ($row['discount'])) / 100));
+                                          if ($premium['status'] == 0) {
+                                             echo $discountprice = ($totalprice - (($totalprice * 10) / 100));
+                                          } else {
+                                             echo $discountprice = ($totalprice - (($totalprice * ($row['discount'])) / 100));
                                           }
-                                           ?>
+                                          ?>
                                        </td>
                                        <td>
                                           <a href="action.php?remove=<?= $row['pid'] ?>" class="text-danger lead
-                                                                     " onclick="return confirm('Are you sure?You want to romove this item!')"><i class="fa fa-trash-o"></i></a>
+                                                                     " onclick="return confirm('Are you sure?You want to romove this item!')"><i class="fa fa-trash" aria-hidden="true"></i></a>
                                        </td>
                                     </tr>
                                     <?php $finaltotalprice += $discountprice ?>

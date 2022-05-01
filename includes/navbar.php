@@ -1,3 +1,5 @@
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+
 <header id="header" class="full-header clearfix">
 
       <div id="header-wrap">
@@ -37,7 +39,8 @@
                                                 ?>
                                                             <ul class="mega-menu-column border-left-0 col-lg-3">
                                                                   <li class="nav-item">
-                                                                       <p> <img src="<?php echo $row['catimg']; ?>" style="width:20px;height:20px;" >&nbsp;<a href="Catagory?id=<?php echo $row["id"]; ?>"><?php echo $row['catname']; ?></a></p>
+                                                                        <p> <img src="<?php echo $row['catimg']; ?>" style="width:20px;height:20px;">&nbsp;<a href="Catagory?id=<?php echo $row["id"]; ?>"><?php echo $row['catname']; ?></a>
+                                                                        </p>
                                                                   </li>
                                                             </ul>
                                                 <?php
@@ -59,33 +62,13 @@
                               <?php
                               if (!isset($_SESSION['id'])) {
                               ?>
-                                    <li>
-                                          <a>
-                                                <div>Cart(0)</div>
-                                          </a>
-                                    </li>
-                              <?php
-                              } else {
-                              ?>
-                                    <?php
-                                    $id = $_SESSION['id'];
-                                    $query = ("SELECT * FROM cart_table WHERE uid = '$id'");
-                                    $data = mysqli_query($con, $query);
-                                    $total = mysqli_num_rows($data);
-                                    ?>
-                                    <li>
-                                          <a href="Cart">
-                                                Cart
-                                          </a>
-                                    </li>
-                              <?php
-                              }
-                              ?>
-                              <!--mobile menu cart --->
 
-                              <?php
-                              if (!isset($_SESSION['id'])) {
-                              ?>
+                                    <li>
+                                          <a href="ContactUs">
+                                                <div><i class="icon-life-ring mr-1 position-relative" style="top: 1px;"></i>Contact Us</div>
+                                          </a>
+
+                                    </li>
                                     <li>
                                           <a href="Login">
                                                 <div><i class="icon-line2-user mr-1 position-relative" style="top: 1px;"></i>Login</div>
@@ -94,12 +77,18 @@
                               <?php
                               } else {
                               ?>
+                                    <li>
+                                          <a href="ContactUs">
+                                                <div><i class="icon-life-ring mr-1 position-relative" style="top: 1px;"></i>Contact Us</div>
+                                          </a>
+
+                                    </li>
                                     <li class="nav-item dropdown" style="list-style: none;">
                                           <a class="nav-link dropdown-toggle position-relative" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="icon-line2-user mr-1 position-relative" style="top: 1px;"></i>
                                                 Welcome
                                           </a>
                                           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                                <a class="dropdown-item" href="TrackOrder">Track Orders</a>
+                                                <a class="dropdown-item" href="trackorder">Track Orders</a>
                                                 <div class="dropdown-divider"></div>
                                                 <a class="dropdown-item" href="Profile">Profile</a>
                                                 <div class="dropdown-divider"></div>
@@ -108,14 +97,30 @@
                                                 <a class="dropdown-item" href="ChangePassword">Settings</a>
                                                 <div class="dropdown-divider"></div>
                                                 <a class="dropdown-item" href="logout.php">Logout</a>
+
                                           </div>
                                     </li>
                               <?php
                               }
                               ?>
 
+                              <!-- SEARCH ============================================= -->
+                              <li class="current">
+
+                                    <div class="input-group rounded" style="padding: 28px;">
+                                          <input type="search" class="form-control rounded" name="search" placeholder="Search" aria-label="Search" aria-describedby="search-addon" />
+                                          <span class="input-group-text border-0" id="search-addon">
+                                                <i class="fas fa-search"></i>
+                                          </span>
+                                    </div>
+
+                              </li>
+
                         </ul>
                         <!-- Top Cart ============================================= -->
+
+
+
                         <?php
                         if (!isset($_SESSION['id'])) {
                         ?>
@@ -136,12 +141,12 @@
                               <div id="top-cart">
                                     <a href="Cart"><i class="icon-line-bag"></i><span class="text-white" id="cart-item"><?php echo $total; ?></span></a>
                               </div>
-                            <div id="top-cart">
-                                <a href="ContactUs"><i class="icon-life-ring"></i></a>
-                            </div>
+                              
                         <?php
                         }
                         ?>
+
+
                         <!-- #top-cart end -->
                   </nav>
             </div>

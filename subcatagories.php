@@ -80,7 +80,7 @@
                         } else {
                            $page1 = ($page * 12) - 12;
                         }
-                        $sql = "SELECT * FROM subcategory,product WHERE subcategory.id= product.sid AND subcategory.id = '$id' LIMIT $page1,12";
+                        $sql = "SELECT * FROM subcategory,product WHERE subcategory.id= product.sid AND subcategory.id = '$id' AND product.status=1 LIMIT $page1,12 ";
                         $result = mysqli_query($con, $sql);
                         $video_id = '';
                         while ($row = mysqli_fetch_array($result)) {

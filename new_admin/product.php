@@ -172,11 +172,11 @@
                                                     <p>After write Product Price Press Enter</p>
                                                 </div>
 
-                                                <div class="form-group">
+                                           <!-- <div class="form-group">
                                                     <label for="gurl">Product discount(Only Digit)</label>
-                                                    <input type="text" id="gurl" class="form-control" name="discount_percentage" placeholder="Enter discount in percentage" value="<?php echo $selk['discount']; ?>" required>
+                                                    <input type="hidden" id="gurl" value="0" class="form-control" name="discount_percentage" placeholder="Enter discount in percentage" value="<?php echo $selk['discount']; ?>" required>
 
-                                                </div>
+                                                </div> --> 
 
 
                                                 <div class="form-actions">
@@ -195,7 +195,7 @@
                         $pname = mysqli_real_escape_string($con, $_POST['pname']);
                         $sname = $_POST['sname'];
                         $popular = $_POST['popular'];
-                        $discount = $_POST['discount_percentage'];
+                        $discount = 0;
                         $catname = $_POST['catname'];
                         $subcatname = $_POST['subcatname'];
                         $ostock = $_POST['ostock'];
@@ -373,11 +373,11 @@
                                                     <p>After write Product Price Press Enter</p>
                                                 </div>
 
-                                                <div class="form-group">
+                                                <!--<div class="form-group">
                                                     <label for="gurl">Product discount (Only Digit)</label>
                                                     <input type="text" id="gurl" class="form-control" name="discount_percentage" placeholder="Enter discount in percentage ex. 5" required>
 
-                                                </div>
+                                                </div> -->
 
                                                 <div class="form-actions">
                                                     <button type="submit" class="btn btn-success mr-2 px-5" name="save_product">Save Product</button>
@@ -411,7 +411,7 @@
 
                             $timestamp = date("Y-m-d H:i:s");
                             $status = $_POST['ppuborun'];
-                            $discount = $_POST['discount_percentage'];
+                            $discount = 0;
 
                             $fileName = $_FILES['pimg']['tmp_name'];
                             $sourceProperties = getimagesize($fileName);

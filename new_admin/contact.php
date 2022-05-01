@@ -9,7 +9,11 @@
     <meta name="description" content=""/>
     <meta name="author" content=""/>
     <title>Customer - Farm Store</title>
+    
     <?php include('include/csslist.php') ?>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
 </head>
 <body class="sb-nav-fixed">
 <?php include('include/topbar.php') ?>
@@ -38,6 +42,7 @@
                                         <th>Email</th>
                                         <th>Country Code</th>
                                         <th>Message</th>
+                                        <th>Reply</th>
                                     </tr>
                                     </thead>
                                     <tbody>
@@ -54,6 +59,7 @@
                                             <td><?php echo $row['email']; ?></td>
                                             <td><?php echo $row['contact_no']; ?></td>
                                             <td><?php echo $row['message']; ?></td>
+                                            <td><a href="https://mail.google.com/mail/u/0/#inbox?compose=new"><i class="fa-solid fa-paper-plane ml-3"></i></a></td>
 
                                         </tr>
                                     <?php } ?>

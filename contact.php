@@ -69,7 +69,7 @@
                 <div class="container p-4">
                     <div class="card shadow">
                         <div class="card-header">
-                            <h5>Update Profile Info.</h5>
+                            <h5>Contact Us.</h5>
                         </div>
                         <div class="card-block">
                             <!----page body content write here--->

@@ -164,9 +164,9 @@
                         $cname = mysqli_real_escape_string($con, $_POST['cname']);
                         $cid = $_POST['scat'];
 
-                        $result = $con->query("select * from subcategory where name='$cname';");
+                       // $result = $con->query("select * from subcategory where name='$cname';");
 
-                        if ($result->num_rows == 0) {
+                        
                             $fileName = $_FILES['f_up']['tmp_name'];
                             $sourceProperties = getimagesize($fileName);
                             $resizeFileName = time();
@@ -182,11 +182,7 @@
                             echo
                             "setTimeout(function () { swal({title: 'Subcategory Add', text: 'Subcategory Added Successfully', type: 'success', confirmButtonClass: 'btn-success', confirmButtonText: 'OK', },function() {window.location = 'subcategory.php';});";
                             echo '}, 1000);</script>';
-                        } else {
-                            echo '<script type="text/javascript">';
-                            echo "setTimeout(function () { swal({title: 'Sub-Catagory Add', text: 'Duplicate Sub-Catagory', type: 'error', confirmButtonClass: 'btn-danger', confirmButtonText: 'OK', });";
-                            echo '}, 1000);</script>';
-                        }
+                         
                     }
                     ?>
 

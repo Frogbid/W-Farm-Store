@@ -15,9 +15,7 @@
 
                   <ul class="list-unstyled iconlist ml-0">
                      <li><a href="mailTo:farmstore@gmail.com"> Help Center </a></li>
-                     <li><a>Paid with Moblie</a></li>
-                     <li><a>Status</a></li>
-                     <li><a>Changelog</a></li>
+                     <li><a href="aboutus.php">About Us</a></li>
                      <li><a href="ContactUs">Contact Support</a></li>
                   </ul>
 
