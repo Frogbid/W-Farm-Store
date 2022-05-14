@@ -37,14 +37,14 @@
                                             $getkey = $con->query("select * from setting")->fetch_assoc();
                                             ?>
                                             <div class="row">
-                                                <div class="col-md-3 col-lg-3 col-xs-12 col-sm-12">
+                                                <div class="col-md-6 col-lg-6 col-xs-12 col-sm-12">
                                                     <div class="form-group">
                                                         <label for="cname">Currency</label>
                                                         <input type="text" id="cname" class="form-control" name="currency" value="<?php echo $getkey['currency']; ?>" required>
                                                     </div>
                                                 </div>
 
-                                                <div class="col-md-3 col-lg-3 col-xs-12 col-sm-12">
+                                                <div class="col-md-6 col-lg-6 col-xs-12 col-sm-12">
                                                     <?php
                                                     $tzlist = DateTimeZone::listIdentifiers(DateTimeZone::ALL);
                                                     $limit =  count($tzlist);
@@ -64,7 +64,7 @@
                                                     </div>
                                                 </div>
 
-                                                <div class="col-md-3 col-lg-3 col-xs-12 col-sm-12">
+                                                <div class="col-md-4 col-lg-4 col-xs-12 col-sm-12">
                                                     <div class="form-group">
                                                         <label for="cname">Order Min Value</label>
                                                         <input type="text" id="cname" class="form-control" name="omin" value="<?php echo $getkey['o_min']; ?>" required>
@@ -74,10 +74,17 @@
 
 
 
-                                                <div class="col-md-3 col-lg-3 col-xs-12 col-sm-12">
+                                                <div class="col-md-4 col-lg-4 col-xs-12 col-sm-12">
                                                     <div class="form-group">
                                                         <label for="cname">Delivery Charge</label>
                                                         <input type="text" id="cname" class="form-control" name="delivery_charge" value="<?php echo $getkey['delivery_charge']; ?>" required>
+                                                    </div>
+                                                </div>
+
+                                                <div class="col-md-4 col-lg-4 col-xs-12 col-sm-12">
+                                                    <div class="form-group">
+                                                        <label for="cname">Tax(%)</label>
+                                                        <input type="text" id="cname" class="form-control" name="tax" value="<?php echo $getkey['tax']; ?>" required>
                                                     </div>
                                                 </div>
                                             </div>
@@ -157,9 +164,10 @@
                     $timezone = $_POST['stime'];
                     $currency = mysqli_real_escape_string($con, $_POST['currency']);
                     $delivery_charge = $_POST['delivery_charge'];
+                    $tax = $_POST['tax'];
 
 
-                    $con->query("update setting set delivery_charge=" . $delivery_charge . ",currency='" . $currency . "',o_min=" . $omin . ",`timezone`='" . $timezone . "' where id=1");
+                    $con->query("update setting set delivery_charge=" . $delivery_charge . ", currency='" . $currency . "', tax='" . $tax . "',o_min=" . $omin . ",`timezone`='" . $timezone . "' where id=1");
 
                     echo '<script type="text/javascript">';
                     echo "setTimeout(function () { swal({title: 'Update Setting', text: 'Update Setting Successfully', type: 'success', confirmButtonClass: 'btn-success', confirmButtonText: 'OK', },function() {window.location = 'setting.php';});";

@@ -13,6 +13,8 @@ $user = $con->query("select * from user where id=" . $c['uid'] . "")->fetch_asso
         <h5><b>Address
                 :- <?php echo $uinfo['hno'] . ',' . $uinfo['society'] . ',' . $uinfo['area'] . '-' . $uinfo['pincode']; ?></b>
         </h5>
+
+        <?php $user_status=$user['status']; ?>
         <h5><b>Landmark:- <?php echo $uinfo['landmark']; ?></b></h5>
 
         <h5><b>Payment Method :- <?php echo $c['p_method']; ?></b></h5>
@@ -33,7 +35,7 @@ $user = $con->query("select * from user where id=" . $c['uid'] . "")->fetch_asso
                         <th>Sr No.</th>
                         <th>Prodct Name</th>
                         <th>Prodct Image</th>
-                        <th>Discount</th>
+<!--                        <th>Discount</th>-->
                         <th>Prodct Type</th>
                         <th>Prodct Price</th>
                         <th>Product Qty</th>
@@ -54,7 +56,7 @@ $user = $con->query("select * from user where id=" . $c['uid'] . "")->fetch_asso
                             <td><?php echo $op; ?></td>
                             <td><?php echo $pinfo['pname']; ?></td>
                             <td><!--<img src="../<?php echo $pinfo['pimg']; ?>" width="100px" />--></td>
-                            <td><?php echo $pinfo['discount']; ?></td>
+<!--                            <td><?php /*echo $pinfo['discount']; */?></td>-->
                             <td><?php echo $ptype[$i]; ?></td>
                             <td><?php echo $pprice[$i]; ?></td>
                             <td><?php echo $qty[$i]; ?></td>
@@ -63,14 +65,23 @@ $user = $con->query("select * from user where id=" . $c['uid'] . "")->fetch_asso
                 </table>
             </div>
             <?php
+            $discount=0;
+            if($user_status==0){
+                $discount=$c['total']*.10;
+            }
+
             $tax = $c['total'] * $c['tax'] / 100;
-            $stotal = $c['total'] - $tax;
+            $stotal = $c['total'] - $tax- $discount;
 
             ?>
             <ul class="list-group">
                 <li class="list-group-item">
                     <span class="badge bg-primary float-right text-white even-larger-badge"><?php echo $c['p_method']; ?></span>
                     Payment Method
+                </li>
+                <li class="list-group-item">
+                    <span class="badge bg-info float-right budge-own text-white even-larger-badge"><?php echo $discount; ?></span>
+                    Discount
                 </li>
                 <li class="list-group-item">
                     <span class="badge bg-info float-right budge-own text-white even-larger-badge"><?php echo $stotal; ?></span>
@@ -81,7 +92,7 @@ $user = $con->query("select * from user where id=" . $c['uid'] . "")->fetch_asso
                     Tax
                 </li>
                 <li class="list-group-item">
-                    <span class="badge bg-info float-right budge-own text-white even-larger-badge"><?php echo $c['total']; ?></span>
+                    <span class="badge bg-info float-right budge-own text-white even-larger-badge"><?php echo $c['total']-$discount; ?></span>
                     Final Price
                 </li>
                 <li class="list-group-item">
