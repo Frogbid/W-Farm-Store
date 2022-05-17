@@ -110,7 +110,7 @@
                      $data = mysqli_query($con, $query);
                      $total = mysqli_num_rows($data);
                      $adress_id = "";
-                     $d_charge = "";
+                     $d_charge = 0;
                      $hno = "";
                      $society = "";
                      $area = "";
@@ -147,12 +147,26 @@
                                             <th>Price</th>
                                         </tr>
                                     </thead>
+
+                                    <?php
+                                    if (isset($_SESSION['id'])) {
+                                        $query = "SELECT * FROM `user` where id={$_SESSION['id']}";
+                                        $data = mysqli_query($con, $query);
+                                        $row = mysqli_fetch_assoc($data);
+                                        $status = $row['status'];
+                                        if($status==0){
+                                            $d_charge=0;
+                                        }
+                                    }
+                                    ?>
+
                                     <tbody>
                                         <?php
                                         $query = "SELECT qty AS ItemQuantity, qty, pname, total as totalprice, id, discount FROM cart_table WHERE uid='$id'";
                                         $data = mysqli_query($con, $query);
                                         $serial_no = 1;
                                         $product_price_total = 0;
+                                        $dis=0;
                                         if (mysqli_num_rows($data) > 0) {
                                             while ($row = mysqli_fetch_assoc($data)) {
                                         ?>
@@ -160,12 +174,17 @@
                                                 <td><?php echo $serial_no; ?></td>
                                                 <td><?php echo $row["pname"]; ?></td>
                                                 <td><?php echo $row["ItemQuantity"]; ?></td>
-                                                <td><?php echo $row["discount"].'%'; ?></td>
-                                                <td><?php echo $row["totalprice"]-$row["totalprice"]*($row["discount"]/100); ?></td>
+                                                <?php
+                                                    if($status==0){
+                                                        $dis=10;
+                                                    }
+                                                ?>
+                                                <td><?php echo $dis.'%'; ?></td>
+                                                <td><?php echo $row["totalprice"]-$row["totalprice"]*($dis/100); ?></td>
                                             </tr>
                                         <?php
                                             $serial_no++;
-                                            $product_price_total += $row['totalprice']-$row["totalprice"]*($row["discount"]/100);
+                                            $product_price_total += $row['totalprice']-$row["totalprice"]*($dis/100);
                                             }
                                         }
                                         ?>
@@ -186,16 +205,15 @@
                                             <td colspan="4">Tax(<?php echo $tax;?>%)</td>
                                             <?php $aftertax = ($product_price_total) * ($tax/100); ?>
                                             <td><?php echo $aftertax; ?></td>
-                                            <?php
-                                            ?>
                                         </tr>
+
                                         <tr>
                                             <td colspan="4">Delivery Charge</td>
                                             <td><?php echo $d_charge; ?></td>
                                         </tr>
                                         <tr>
                                             <td colspan="4">Grand Total</td>
-                                            <td><?php echo $final_total = ($d_charge + $product_price_total); ?></td>
+                                            <td><?php echo $final_total = ($d_charge + $product_price_total+$aftertax); ?></td>
                                         </tr>
                                     </tfoot>
                                 </table>
