@@ -66,11 +66,18 @@ $user = $con->query("select * from user where id=" . $c['uid'] . "")->fetch_asso
             </div>
             <?php
             $discount=0;
+
+
+            $query = "SELECT * FROM `setting`";
+            $data = mysqli_query($con, $query);
+            $row = mysqli_fetch_assoc($data);
+            $tx = $row['tax'];
+
             if($user_status==0){
                 $discount=$c['total']*.10;
             }
 
-            $tax = $c['total'] * $c['tax'] / 100;
+            $tax = $c['total'] * $tx / 100;
             $stotal = $c['total'] - $tax- $discount;
 
             ?>
@@ -92,7 +99,7 @@ $user = $con->query("select * from user where id=" . $c['uid'] . "")->fetch_asso
                     Tax
                 </li>
                 <li class="list-group-item">
-                    <span class="badge bg-info float-right budge-own text-white even-larger-badge"><?php echo $c['total']-$discount; ?></span>
+                    <span class="badge bg-info float-right budge-own text-white even-larger-badge"><?php echo $c['total']-$discount+$tax; ?></span>
                     Final Price
                 </li>
                 <li class="list-group-item">

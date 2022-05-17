@@ -38,6 +38,7 @@
                                         <th>Status</th>
                                         <th>Preview</th>
                                         <th>Action</th>
+                                        <th>Cancel</th>
                                     </tr>
                                     </thead>
                                     <tbody>
@@ -66,6 +67,15 @@
                                                 <?php if ($row['status'] != 'completed' and $row['status'] != 'cancelled') { ?>
                                                     <a href="?status=completed&id=<?php echo $row['id']; ?>">
                                                         <button class="btn shadow-z-2 btn-success">Make Completed
+                                                        </button>
+                                                    </a>
+                                                <?php } ?>
+                                            </td>
+
+                                            <td>
+                                                <?php if ($row['status'] != 'cancelled' or $row['status'] != 'completed') { ?>
+                                                    <a href="?status=cancelled&id=<?php echo $row['id']; ?>">
+                                                        <button class="btn shadow-z-2 btn-danger">Make Cancel
                                                         </button>
                                                     </a>
                                                 <?php } ?>
